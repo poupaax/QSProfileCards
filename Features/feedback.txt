@@ -1,0 +1,29 @@
+- Features
+--- The 3 features presented describe the mandatory requirements, no extra feature is described
+--- Neither the scenario nor the feature provide with the "free text" search and the results are somewhat cloudy
+
+- Scenarios
+--- Review the "Error Messages" - "Don't exists members." could be replaced by "There are no members to show."
+--- There are not enough scenarios, they are roughly defined and the examples do not contemplate all the scenarios.
+--- Where are the search results presented? How will you make the tags work? How will the user be able to see the
+information that is "tagged"?
+
+- Gherkin
+--- "Scenario Outlines:" always require an "Examples:" table - not every scenario outline has its own "Examples:" table.
+--- The "Examples:" keyword should be used instead of "Example:". All the examples tables' keywords are incorrect.
+--- Whenever there is no data to provide an examples table, than a simple "Scenario:" should be used
+--- Wherever you use a "have <name>" followed by a "don't have <name>" it does not make sense to put it on the examples
+tables.
+--- "Scenario Outline: An member don't have <short bio>" -> does not present a default text when there is no shortbio.
+Should provide one, for consistency, since this is what is being presented in similar scenarios.
+--- No usage of backgrounds (there are a couple of scenarios that have exactly the same beginning).
+--- The last scenario outline of the "search" feature seems to be missing part of the sentence.
+
+Version Control System Usage
+- Commit messages are short and almost too-short to be self describing
+--- What was the update conducted in the commit "updated features"?
+- One of the members of the team does not appear as contributor of the repository
+--- A balanced throughput of the commits shows an equally distributed work load
+
+English
+- Please revise your written english: verb conjugations and other grammar issues

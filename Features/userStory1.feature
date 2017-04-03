@@ -1,62 +1,69 @@
 Feature: User views the main informations about all members of the team (pedro, vítor and miriam)
-As a user 
-I want to see a list of the team members (pedro, vítor and miriam)
+  #As an user
+  As a user
+  I want to see a list of the team members (pedro, vítor and miriam)
 So that I can know the team better and see the main information
 
+#Scenario: View the team members (pedro, vítor and miriam)
 Scenario Outline: View the team members (pedro, vítor and miriam)
 Given that I'm in the main page
 When the page is loaded and exists members
 Then the application shows a list of team members (pedro, vítor and miriam) with your main informations (photo, short bio, facebook/linkedin links)
+#every scenario outline requires an "Examples:" table
 
+#Scenario: ?
 Scenario Outline: Don't exists members
 Given that I'm in the main page
-And don't exists members
+And doesn't exists members
 When the page is loaded
 Then the application shows a default message: "Don't exists members."
+#every scenario outline requires an "Examples:" table
 
-Scenario Outline: An <member> exist
+Scenario Outline: A <member> exists
 Given that I'm in the main page
-And an <member> exist
+And a <member> exists
 When the page is loaded
-Then that <member> appear with your available main information
+Then that <member> appears with his available main information
+#what information?
 
-Example:
+Examples:
 |member |
 |miriam |
 |vítor	|
 |pedro 	|
 
-Scenario Outline: An <member> not exist
+Scenario Outline: A <member> not exist
 Given that I'm in the main page
-And an <member> not exist
+And a <member> does not exist
 When the page is loaded
-Then that <member> not appear
+Then that <member> will not appear
 
-Example:
+Examples:
 |member |
 |miriam |
 |vítor	|
 |pedro 	|
 
-Scenario Outline: An <member> have <name>
+Scenario Outline: A <member> has a name <name>
 Given that I'm in the main page
-And some <member> of team have <name>
+And the <member> of the team has a name <name>
 When the page is loaded
-Then the application show <member> <name>
+Then the application shows <member> <name>
+  #the <member> also appears? besides the <name>?
 
-Example:
+Examples:
 |member | name			|
 |miriam | Miriam Pereira	|
 |vítor	| Vítor Dias		|
 |pedro 	| Pedro Jorge		|
 
-Scenario Outline: An <member> don't have <name>
+Scenario Outline: A <member> don't have <name>
 Given that I'm in the main page
 And some <member> of team don't have <name>
 When the page is loaded
 Then the application show <default name>
 
-Example:
+Examples:
 |member | name           | default name	|
 |miriam | Miriam Pereira | User		|
 |vítor	| Vítor Dias     | User		|
@@ -68,7 +75,7 @@ And some <member> of team have <photo>
 When the page is loaded
 Then the application show <member> <photo>
 
-Example:
+Examples:
 |member | photo		|
 |miriam | miriam.jpg	|
 |vítor	| vítor.jpg	|
@@ -80,7 +87,7 @@ And some <member> of team don't have <photo>
 When the page is loaded
 Then the application show a <default photo>
 
-Example:
+Examples:
 |member | photo      | default photo	|
 |miriam | miriam.jpg | default.jpg	|
 |vítor	| vítor.jpg  | default.jpg	|
@@ -92,7 +99,7 @@ And some <member> of team have <short bio>
 When the page is loaded
 Then the application show <member> <short bio>
 
-Example:
+Examples:
 |member | short bio                         			|
 |miriam | 21 years. Master's student. Front end developer. 	|
 |vítor	| 22 years. Master's student. Front end developer.  	|
