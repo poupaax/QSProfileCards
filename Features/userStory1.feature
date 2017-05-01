@@ -88,9 +88,9 @@ Then the application show <member>'s <short bio>
 
 Examples:
 |member | short bio                         			   |
-|miriam | 21 years. Master's student. Front end developer. |
-|vítor	| 22 years. Master's student. Front end developer. |
-|pedro 	| 22 years. Master's student.				       |
+|miriam | 21 years old. Master's student. Front end developer. |
+|vítor	| 22 years old. Master's student. Front end developer. |
+|pedro 	| 23 years old. Master's student.				       |
 
 Scenario: An member don't have short bio
 Given that I'm in the main page
