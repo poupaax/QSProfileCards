@@ -3,28 +3,40 @@ As an user
 I want to see a list of the team members (pedro, vítor and miriam)
 So that I can know the team better and see the main information
 
-Scenario: View the team members (pedro, vítor and miriam)
+Scenario Outline: View the team members (pedro, vítor and miriam)
 Given that I'm in the main page
-When the page is loaded and exists members
-Then the application shows a list of team members (pedro, vítor and miriam) with your main informations (photo, short bio, facebook/linkedin links)
+When the page is loaded and exists "<members>"
+Then the application shows a list of team "<members>" with your main information "<informations>"
 
-Scenario: There are no members to show
+Examples:
+|members        | informations |
+|Miriam Pereira |21 years old. Master's student. Front end developer.|
+|Vítor Dias   	|22 years old. Master's student. Front end developer. |
+|Pedro Jorge	|23 years old. Master's student. |
+
+Scenario Outline: There are no members to show
 Given that I'm in the main page
-And doesn't exists members
+And doesn't exists "<members>"
 When the page is loaded
 Then the application shows a default message: "There are no members to show."
 
+  Examples:
+    |members        |
+    |Miriam Pereira |
+    |Vítor Dias   	|
+    |Pedro Jorge	|
+
 Scenario Outline: A member exists
 Given that I'm in the main page
-And a <member> exists
+And a "<member>" exists
 When the page is loaded
-Then that <member> appears with his available main information (photo, short bio, facebook/linkedin links)
+Then that "<member>" appears with his available main information "<info>"
 
-Examples:
-|member |
-|miriam |
-|vítor	|
-|pedro 	|
+  Examples:
+    |member        | info |
+    |Miriam Pereira |21 years old. Master's student. Front end developer.|
+    |Vítor Dias   	|22 years old. Master's student. Front end developer. |
+    |Pedro Jorge	|23 years old. Master's student. |
 
 Scenario: A member not exist
 Given that I'm in the main page
@@ -34,9 +46,9 @@ Then that member will not appear
 
 Scenario Outline: A member has a name
 Given that I'm in the main page
-And the <member> of the team has a <name>
+And the "<member>" of the team has a "<name>"
 When the page is loaded
-Then the application shows <member>'s <name>
+Then the application shows <member>'s name <name>
 
 Examples:
 |member | name			    |
