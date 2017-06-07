@@ -157,13 +157,13 @@ public class Stepdefs {
     public void theApplicationShowFacebookIconWith(String member, String link) throws Throwable {
         driver.get(baseUrl);
         if(member.equals("Pedro Jorge")) {
-            WebElement href = driver.findElement(By.xpath("//div[@id='speakers']/div/ul/li/a[contains(@href,'https://www.facebook.com/miriampereira95')]"));
+            WebElement href = driver.findElement(By.xpath("//div[@id='speakers']/div/ul/li/a[contains(@href,'https://www.facebook.com/pedrombjorge')]"));
             if(href.toString().contains(link)){
                 assertEquals(true, true);
             }
         }
         if(member.equals("Miriam Pereira")) {
-            WebElement href = driver.findElement(By.xpath("//div[@id='speakers']/div/ul/li/a[contains(@href,'https://www.facebook.com/pedrombjorge')]"));
+            WebElement href = driver.findElement(By.xpath("//div[@id='speakers']/div/ul/li/a[contains(@href,'https://www.facebook.com/miriampereira95')]"));
             if(href.toString().contains(link)){
                 assertEquals(true, true);
             }
@@ -304,7 +304,7 @@ public class Stepdefs {
 
     /////////////////
 
-    @And("^some \"([^\"]*)\" of team have name \"([^\"]*)\"$")
+    /*@And("^some \"([^\"]*)\" of team have name \"([^\"]*)\"$")
     public void someOfTeamHaveName(String member, String name) throws Throwable {
         for(int i = 0; i <= personalPages.length -1; i++){
             driver.get(personalPages[i]);
@@ -314,7 +314,7 @@ public class Stepdefs {
                 assertEquals(name, driver.findElement(By.xpath("//section[@id='about']/div[2]/div/ul/li/span")).getText());
             }
         }
-    }
+    }*/
 
     @And("^exists \"([^\"]*)\" on detailed page$")
     public void existsOnDetailedPage(String member) throws Throwable {
@@ -345,5 +345,130 @@ public class Stepdefs {
         }
     }
 
+    @Then("^the application show \"([^\"]*)\" photos \"([^\"]*)\"$")
+    public void theApplicationShowPhotos(String member, String photo) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++){
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro")) {
+                WebElement img = driver.findElement(By.xpath("//section[@id='about']/div/div/div/img[contains(@src,'img/pedro.jpg')]"));
+                if(img.toString().contains(photo)){
+                    assertEquals(true, true);
+                }
+            }
+            if(member.equals("Miriam Pereira") && personalPages[i].contains("miriam")) {
+                WebElement img = driver.findElement(By.xpath("//section[@id='about']/div/div/div/img[contains(@src,'img/miriam.jpg')]"));
+                if(img.toString().contains(photo)){
+                    assertEquals(true, true);
+                }
+            }
+            if(member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                WebElement img = driver.findElement(By.xpath("//section[@id='about']/div/div/div/img[contains(@src,'img/vitor.jpg')]"));
+                if(img.toString().contains(photo)){
+                    assertEquals(true, true);
+                }
+            }
+        }
+    }
 
+    @Then("^the application show members \"([^\"]*)\" short bio \"([^\"]*)\"$")
+    public void theApplicationShowMembersShortBio(String member, String shortbio) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++){
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro") ||
+                    member.equals("Miriam Pereira") && personalPages[i].contains("miriam") ||
+                    member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                assertEquals(shortbio, driver.findElement(By.xpath("//section[@id='intro']/div[2]/div/div/p")).getText());
+            }
+        }
+    }
+
+    @Then("^the application show facebook icon with \"([^\"]*)\" facebook link \"([^\"]*)\"$")
+    public void theApplicationShowFacebookIconWithFacebookLink(String member, String facelink) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++) {
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li/a[contains(@href,'https://www.facebook.com/pedrombjorge')]"));
+                if(href.toString().contains(facelink)){
+                    assertEquals(true, true);
+                }
+            }
+            if(member.equals("Miriam Pereira") && personalPages[i].contains("miriam")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li/a[contains(@href,'https://www.facebook.com/miriampereira95')]"));
+                if(href.toString().contains(facelink)){
+                    assertEquals(true, true);
+                }
+            }
+            if(member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li/a[contains(@href,'https://www.facebook.com/vitor.dias.3954')]"));
+                if(href.toString().contains(facelink)){
+                    assertEquals(true, true);
+                }
+            }
+        }
+    }
+
+    @Then("^the application show linkedin icon with \"([^\"]*)\" linkedin link \"([^\"]*)\"$")
+    public void theApplicationShowLinkedinIconWithLinkedinLink(String member, String linkedinlink) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++) {
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li[2]/a[contains(@href,'https://www.linkedin.com/in/pedrombjorge/')]"));
+                if(href.toString().contains(linkedinlink)){
+                    assertEquals(true, true);
+                }
+            }
+            if(member.equals("Miriam Pereira") && personalPages[i].contains("miriam")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li[2]/a[contains(@href,'https://www.linkedin.com/in/miriammpereira/')]"));
+                if(href.toString().contains(linkedinlink)){
+                    assertEquals(true, true);
+                }
+            }
+            if(member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li[2]/a[contains(@href,'https://www.linkedin.com/in/vitor-dias-6aa9a310b/')]"));
+                if(href.toString().contains(linkedinlink)){
+                    assertEquals(true, true);
+                }
+            }
+        }
+    }
+
+    @Then("^the application show the \"([^\"]*)\" projects \"([^\"]*)\"$")
+    public void theApplicationShowTheProjects(String member, String projects) throws Throwable {
+        /*for(int i = 0; i <= personalPages.length-1; i++) {
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro")) {
+                String[] project = projects.split(",");
+                for(int j = 0; j <= project.length-1; j++){
+                    assertEquals(project[j], driver.findElement(By.xpath("//div[@id='folio-wrapper']/div/div/a/div/div/h3")).getText());
+                    if(project.length > 1){
+                        assertEquals(project[j], driver.findElement(By.xpath("//div[@id='folio-wrapper']/div[2]/div/a/div/div/h3")).getText());
+                    }
+                }
+            }
+            if(member.equals("Miriam Pereira") && personalPages[i].contains("miriam")) {
+                String[] project = projects.split(",");
+                for(int j = 0; j <= project.length-1; j++){
+                    assertEquals(project[j], driver.findElement(By.xpath("//div[@id='folio-wrapper']/div/div/a/div/div/h3")).getText());
+                    if(project.length > 1){
+                        assertEquals(project[j], driver.findElement(By.xpath("//div[@id='folio-wrapper']/div[2]/div/a/div/div/h3")).getText());
+                    }
+                }
+            }
+            if(member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                String[] project = projects.split(",");
+                for(int j = 0; j <= project.length-1; j++){
+                    assertEquals(project[j], driver.findElement(By.xpath("//div[@id='folio-wrapper']/div/div/a/div/div/h3")).getText());
+                    if(project.length > 1){
+                        assertEquals(project[j], driver.findElement(By.xpath("//div[@id='folio-wrapper']/div[2]/div/a/div/div/h3")).getText());
+                    }
+                }
+            }
+        }*/
+    }
+
+    @Then("^the application show the \"([^\"]*)\" tags \"([^\"]*)\"$")
+    public void theApplicationShowTheTags(String arg0, String arg1) throws Throwable {
+        // Write code here that turns the phrase above into concrete actions
+        throw new PendingException();
+    }
 }

@@ -76,7 +76,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3629928524,
+  "duration": 3003131914,
   "status": "passed"
 });
 formatter.scenario({
@@ -118,7 +118,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 412888708,
+  "duration": 338318576,
   "status": "passed"
 });
 formatter.match({
@@ -131,14 +131,14 @@ formatter.match({
   "location": "Stepdefs.doesnTExists(String)"
 });
 formatter.result({
-  "duration": 1249488998,
+  "duration": 1343129343,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 108789455,
+  "duration": 150274623,
   "status": "passed"
 });
 formatter.match({
@@ -155,15 +155,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsADefaultMessageToMember(String,String)"
 });
 formatter.result({
-  "duration": 321459824,
+  "duration": 417856124,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1921930,
+  "duration": 1630777,
   "status": "passed"
 });
 formatter.before({
-  "duration": 355920063,
+  "duration": 311233298,
   "status": "passed"
 });
 formatter.scenario({
@@ -205,7 +205,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 49047029,
+  "duration": 41149183,
   "status": "passed"
 });
 formatter.match({
@@ -218,14 +218,14 @@ formatter.match({
   "location": "Stepdefs.doesnTExists(String)"
 });
 formatter.result({
-  "duration": 329756318,
+  "duration": 327981854,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 62451924,
+  "duration": 85462149,
   "status": "passed"
 });
 formatter.match({
@@ -242,15 +242,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsADefaultMessageToMember(String,String)"
 });
 formatter.result({
-  "duration": 335189902,
+  "duration": 283068217,
   "status": "passed"
 });
 formatter.after({
-  "duration": 994996,
+  "duration": 333286,
   "status": "passed"
 });
 formatter.before({
-  "duration": 15324125,
+  "duration": 18395000,
   "status": "passed"
 });
 formatter.scenario({
@@ -292,7 +292,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 54971630,
+  "duration": 38878842,
   "status": "passed"
 });
 formatter.match({
@@ -305,14 +305,14 @@ formatter.match({
   "location": "Stepdefs.doesnTExists(String)"
 });
 formatter.result({
-  "duration": 292889615,
+  "duration": 345029126,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 52742343,
+  "duration": 50591379,
   "status": "passed"
 });
 formatter.match({
@@ -329,11 +329,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsADefaultMessageToMember(String,String)"
 });
 formatter.result({
-  "duration": 283329120,
+  "duration": 321504659,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2903422,
+  "duration": 456445,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -406,7 +406,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 18857926,
+  "duration": 11013016,
   "status": "passed"
 });
 formatter.scenario({
@@ -448,7 +448,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 21382147,
+  "duration": 20581074,
   "status": "passed"
 });
 formatter.match({
@@ -461,14 +461,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 31638383,
+  "duration": 32242295,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 43991564,
+  "duration": 42082598,
   "status": "passed"
 });
 formatter.match({
@@ -485,15 +485,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsName(String,String)"
 });
 formatter.result({
-  "duration": 248087793,
+  "duration": 235200923,
   "status": "passed"
 });
 formatter.after({
-  "duration": 319781,
+  "duration": 376499,
   "status": "passed"
 });
 formatter.before({
-  "duration": 15005963,
+  "duration": 12597879,
   "status": "passed"
 });
 formatter.scenario({
@@ -535,7 +535,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 17394602,
+  "duration": 14676459,
   "status": "passed"
 });
 formatter.match({
@@ -548,14 +548,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 26460840,
+  "duration": 20404978,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 38061022,
+  "duration": 39014965,
   "status": "passed"
 });
 formatter.match({
@@ -572,15 +572,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsName(String,String)"
 });
 formatter.result({
-  "duration": 273054518,
+  "duration": 255273694,
   "status": "passed"
 });
 formatter.after({
-  "duration": 354892,
+  "duration": 1300733,
   "status": "passed"
 });
 formatter.before({
-  "duration": 20728540,
+  "duration": 21796459,
   "status": "passed"
 });
 formatter.scenario({
@@ -622,7 +622,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 14540336,
+  "duration": 16613514,
   "status": "passed"
 });
 formatter.match({
@@ -635,14 +635,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 29065006,
+  "duration": 20195931,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 37137329,
+  "duration": 27898236,
   "status": "passed"
 });
 formatter.match({
@@ -659,11 +659,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsName(String,String)"
 });
 formatter.result({
-  "duration": 217046840,
+  "duration": 197604447,
   "status": "passed"
 });
 formatter.after({
-  "duration": 355973,
+  "duration": 316541,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -736,7 +736,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8521745,
+  "duration": 9246655,
   "status": "passed"
 });
 formatter.scenario({
@@ -778,7 +778,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11818952,
+  "duration": 13215295,
   "status": "passed"
 });
 formatter.match({
@@ -791,14 +791,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 23822643,
+  "duration": 22158914,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 28738203,
+  "duration": 29451229,
   "status": "passed"
 });
 formatter.match({
@@ -815,15 +815,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowToThe(String,String)"
 });
 formatter.result({
-  "duration": 215583515,
+  "duration": 225317405,
   "status": "passed"
 });
 formatter.after({
-  "duration": 308978,
+  "duration": 298175,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9717685,
+  "duration": 10761296,
   "status": "passed"
 });
 formatter.scenario({
@@ -865,7 +865,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 18615929,
+  "duration": 10944954,
   "status": "passed"
 });
 formatter.match({
@@ -878,14 +878,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 16474150,
+  "duration": 16856591,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 25524722,
+  "duration": 31337508,
   "status": "passed"
 });
 formatter.match({
@@ -902,15 +902,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowToThe(String,String)"
 });
 formatter.result({
-  "duration": 226157911,
+  "duration": 224836652,
   "status": "passed"
 });
 formatter.after({
-  "duration": 604992,
+  "duration": 346250,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11192353,
+  "duration": 8924173,
   "status": "passed"
 });
 formatter.scenario({
@@ -952,7 +952,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 30037855,
+  "duration": 10109309,
   "status": "passed"
 });
 formatter.match({
@@ -965,14 +965,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14241621,
+  "duration": 14756944,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 22165936,
+  "duration": 19775678,
   "status": "passed"
 });
 formatter.match({
@@ -989,11 +989,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowToThe(String,String)"
 });
 formatter.result({
-  "duration": 195395687,
+  "duration": 195324384,
   "status": "passed"
 });
 formatter.after({
-  "duration": 301956,
+  "duration": 313840,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1066,7 +1066,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6866119,
+  "duration": 6148231,
   "status": "passed"
 });
 formatter.scenario({
@@ -1108,7 +1108,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12545482,
+  "duration": 9850567,
   "status": "passed"
 });
 formatter.match({
@@ -1121,14 +1121,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 13839193,
+  "duration": 17324379,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 21394572,
+  "duration": 19903698,
   "status": "passed"
 });
 formatter.match({
@@ -1145,15 +1145,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhoto(String,String)"
 });
 formatter.result({
-  "duration": 14862278,
+  "duration": 19213899,
   "status": "passed"
 });
 formatter.after({
-  "duration": 375959,
+  "duration": 982032,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9348208,
+  "duration": 14987598,
   "status": "passed"
 });
 formatter.scenario({
@@ -1195,7 +1195,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 25271922,
+  "duration": 19705455,
   "status": "passed"
 });
 formatter.match({
@@ -1208,14 +1208,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 18613228,
+  "duration": 32679293,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 37132467,
+  "duration": 22809280,
   "status": "passed"
 });
 formatter.match({
@@ -1232,15 +1232,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhoto(String,String)"
 });
 formatter.result({
-  "duration": 23994957,
+  "duration": 29084992,
   "status": "passed"
 });
 formatter.after({
-  "duration": 367857,
+  "duration": 360295,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8131741,
+  "duration": 11286342,
   "status": "passed"
 });
 formatter.scenario({
@@ -1282,7 +1282,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 8939838,
+  "duration": 11002212,
   "status": "passed"
 });
 formatter.match({
@@ -1295,14 +1295,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 11032462,
+  "duration": 16198122,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 18262117,
+  "duration": 52738021,
   "status": "passed"
 });
 formatter.match({
@@ -1319,11 +1319,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhoto(String,String)"
 });
 formatter.result({
-  "duration": 23150129,
+  "duration": 18292907,
   "status": "passed"
 });
 formatter.after({
-  "duration": 946920,
+  "duration": 826463,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1396,7 +1396,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9257999,
+  "duration": 9737131,
   "status": "passed"
 });
 formatter.scenario({
@@ -1438,7 +1438,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10470684,
+  "duration": 10451238,
   "status": "passed"
 });
 formatter.match({
@@ -1451,14 +1451,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 15665513,
+  "duration": 19893975,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 24336346,
+  "duration": 23454785,
   "status": "passed"
 });
 formatter.match({
@@ -1475,15 +1475,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowADefaultPhoto(String,String)"
 });
 formatter.result({
-  "duration": 14107659,
+  "duration": 17573939,
   "status": "passed"
 });
 formatter.after({
-  "duration": 728151,
+  "duration": 340308,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14233519,
+  "duration": 14274571,
   "status": "passed"
 });
 formatter.scenario({
@@ -1525,7 +1525,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 15265786,
+  "duration": 12123068,
   "status": "passed"
 });
 formatter.match({
@@ -1538,14 +1538,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 20231042,
+  "duration": 19262515,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 37239421,
+  "duration": 27973860,
   "status": "passed"
 });
 formatter.match({
@@ -1562,15 +1562,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowADefaultPhoto(String,String)"
 });
 formatter.result({
-  "duration": 19029701,
+  "duration": 19784861,
   "status": "passed"
 });
 formatter.after({
-  "duration": 653068,
+  "duration": 479132,
   "status": "passed"
 });
 formatter.before({
-  "duration": 15865376,
+  "duration": 21175802,
   "status": "passed"
 });
 formatter.scenario({
@@ -1612,7 +1612,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 14358298,
+  "duration": 19157182,
   "status": "passed"
 });
 formatter.match({
@@ -1625,14 +1625,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 17149904,
+  "duration": 18212421,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27608704,
+  "duration": 23299217,
   "status": "passed"
 });
 formatter.match({
@@ -1649,11 +1649,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowADefaultPhoto(String,String)"
 });
 formatter.result({
-  "duration": 18338281,
+  "duration": 16724249,
   "status": "passed"
 });
 formatter.after({
-  "duration": 7513245,
+  "duration": 898846,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1726,7 +1726,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 10107688,
+  "duration": 9545370,
   "status": "passed"
 });
 formatter.scenario({
@@ -1768,7 +1768,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 13397333,
+  "duration": 10317815,
   "status": "passed"
 });
 formatter.match({
@@ -1781,14 +1781,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 19119369,
+  "duration": 22120562,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 34953956,
+  "duration": 29070948,
   "status": "passed"
 });
 formatter.match({
@@ -1805,15 +1805,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShow(String,String)"
 });
 formatter.result({
-  "duration": 264660794,
+  "duration": 274689077,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1251578,
+  "duration": 1073861,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10160085,
+  "duration": 11853523,
   "status": "passed"
 });
 formatter.scenario({
@@ -1855,7 +1855,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 9364413,
+  "duration": 11281481,
   "status": "passed"
 });
 formatter.match({
@@ -1868,14 +1868,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14337771,
+  "duration": 15158832,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 22473834,
+  "duration": 29920638,
   "status": "passed"
 });
 formatter.match({
@@ -1892,15 +1892,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShow(String,String)"
 });
 formatter.result({
-  "duration": 255675581,
+  "duration": 262005851,
   "status": "passed"
 });
 formatter.after({
-  "duration": 889123,
+  "duration": 346250,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14415015,
+  "duration": 10341583,
   "status": "passed"
 });
 formatter.scenario({
@@ -1942,7 +1942,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 13216375,
+  "duration": 10980605,
   "status": "passed"
 });
 formatter.match({
@@ -1955,14 +1955,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 15504002,
+  "duration": 18481967,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27476362,
+  "duration": 31152229,
   "status": "passed"
 });
 formatter.match({
@@ -1979,11 +1979,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShow(String,String)"
 });
 formatter.result({
-  "duration": 226862835,
+  "duration": 301264434,
   "status": "passed"
 });
 formatter.after({
-  "duration": 289532,
+  "duration": 890202,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2056,7 +2056,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 7533771,
+  "duration": 8659489,
   "status": "passed"
 });
 formatter.scenario({
@@ -2098,7 +2098,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11780599,
+  "duration": 10541987,
   "status": "passed"
 });
 formatter.match({
@@ -2111,14 +2111,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 16284550,
+  "duration": 38978773,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 30197746,
+  "duration": 28295262,
   "status": "passed"
 });
 formatter.match({
@@ -2135,15 +2135,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationDonTShowShortBio(String,String)"
 });
 formatter.result({
-  "duration": 228248375,
+  "duration": 227778966,
   "status": "passed"
 });
 formatter.after({
-  "duration": 280349,
+  "duration": 311139,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7737956,
+  "duration": 7463009,
   "status": "passed"
 });
 formatter.scenario({
@@ -2185,7 +2185,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 8788050,
+  "duration": 17552331,
   "status": "passed"
 });
 formatter.match({
@@ -2198,14 +2198,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 13388150,
+  "duration": 21504766,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 20631849,
+  "duration": 33563014,
   "status": "passed"
 });
 formatter.match({
@@ -2222,15 +2222,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationDonTShowShortBio(String,String)"
 });
 formatter.result({
-  "duration": 202046817,
+  "duration": 226519826,
   "status": "passed"
 });
 formatter.after({
-  "duration": 305197,
+  "duration": 329505,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6411295,
+  "duration": 9014922,
   "status": "passed"
 });
 formatter.scenario({
@@ -2272,7 +2272,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 8674613,
+  "duration": 15142086,
   "status": "passed"
 });
 formatter.match({
@@ -2285,14 +2285,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 23084228,
+  "duration": 22882204,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 26888655,
+  "duration": 30937240,
   "status": "passed"
 });
 formatter.match({
@@ -2309,11 +2309,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationDonTShowShortBio(String,String)"
 });
 formatter.result({
-  "duration": 245431769,
+  "duration": 284339781,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1043072,
+  "duration": 803235,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2386,7 +2386,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 10929289,
+  "duration": 14400431,
   "status": "passed"
 });
 formatter.scenario({
@@ -2428,7 +2428,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11409502,
+  "duration": 12497407,
   "status": "passed"
 });
 formatter.match({
@@ -2441,14 +2441,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14328589,
+  "duration": 18861707,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27584937,
+  "duration": 28511330,
   "status": "passed"
 });
 formatter.match({
@@ -2465,15 +2465,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWith(String,String)"
 });
 formatter.result({
-  "duration": 15038914,
+  "duration": 17626875,
   "status": "passed"
 });
 formatter.after({
-  "duration": 734093,
+  "duration": 411070,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10908222,
+  "duration": 12460676,
   "status": "passed"
 });
 formatter.scenario({
@@ -2515,7 +2515,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 16305616,
+  "duration": 11190733,
   "status": "passed"
 });
 formatter.match({
@@ -2528,14 +2528,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 32830542,
+  "duration": 26410604,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 25029386,
+  "duration": 30815703,
   "status": "passed"
 });
 formatter.match({
@@ -2552,15 +2552,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWith(String,String)"
 });
 formatter.result({
-  "duration": 16904127,
+  "duration": 17620934,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1236453,
+  "duration": 763802,
   "status": "passed"
 });
 formatter.before({
-  "duration": 16831743,
+  "duration": 12383431,
   "status": "passed"
 });
 formatter.scenario({
@@ -2602,7 +2602,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 13675521,
+  "duration": 11385734,
   "status": "passed"
 });
 formatter.match({
@@ -2615,14 +2615,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 12664320,
+  "duration": 21516650,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 29988160,
+  "duration": 31914951,
   "status": "passed"
 });
 formatter.match({
@@ -2639,11 +2639,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWith(String,String)"
 });
 formatter.result({
-  "duration": 14373963,
+  "duration": 16284009,
   "status": "passed"
 });
 formatter.after({
-  "duration": 357053,
+  "duration": 7561320,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2716,7 +2716,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6826687,
+  "duration": 9924571,
   "status": "passed"
 });
 formatter.scenario({
@@ -2758,7 +2758,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10678109,
+  "duration": 11565072,
   "status": "passed"
 });
 formatter.match({
@@ -2771,14 +2771,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14654851,
+  "duration": 18096825,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 21953109,
+  "duration": 27748608,
   "status": "passed"
 });
 formatter.match({
@@ -2795,15 +2795,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowThe(String,String)"
 });
 formatter.result({
-  "duration": 15609335,
+  "duration": 16644844,
   "status": "passed"
 });
 formatter.after({
-  "duration": 350571,
+  "duration": 342469,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10258936,
+  "duration": 12918200,
   "status": "passed"
 });
 formatter.scenario({
@@ -2858,14 +2858,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 22147030,
+  "duration": 14889287,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 31058239,
+  "duration": 31625959,
   "status": "passed"
 });
 formatter.match({
@@ -2882,15 +2882,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowThe(String,String)"
 });
 formatter.result({
-  "duration": 15705485,
+  "duration": 11816791,
   "status": "passed"
 });
 formatter.after({
-  "duration": 284671,
+  "duration": 1094387,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9752796,
+  "duration": 9378457,
   "status": "passed"
 });
 formatter.scenario({
@@ -2932,7 +2932,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12239205,
+  "duration": 9852187,
   "status": "passed"
 });
 formatter.match({
@@ -2945,14 +2945,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 16671312,
+  "duration": 16573001,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 25364832,
+  "duration": 33814194,
   "status": "passed"
 });
 formatter.match({
@@ -2969,11 +2969,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowThe(String,String)"
 });
 formatter.result({
-  "duration": 15101034,
+  "duration": 23337568,
   "status": "passed"
 });
 formatter.after({
-  "duration": 835645,
+  "duration": 812958,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3046,7 +3046,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 11358725,
+  "duration": 14393409,
   "status": "passed"
 });
 formatter.scenario({
@@ -3088,7 +3088,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 13466475,
+  "duration": 9514581,
   "status": "passed"
 });
 formatter.match({
@@ -3101,14 +3101,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 15033512,
+  "duration": 16698861,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 20446571,
+  "duration": 24155388,
   "status": "passed"
 });
 formatter.match({
@@ -3125,15 +3125,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 15579086,
+  "duration": 17094807,
   "status": "passed"
 });
 formatter.after({
-  "duration": 392705,
+  "duration": 312219,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11379252,
+  "duration": 12876067,
   "status": "passed"
 });
 formatter.scenario({
@@ -3175,7 +3175,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12643254,
+  "duration": 12497407,
   "status": "passed"
 });
 formatter.match({
@@ -3188,14 +3188,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 17152605,
+  "duration": 17727348,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 53502904,
+  "duration": 27149018,
   "status": "passed"
 });
 formatter.match({
@@ -3212,15 +3212,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 18169208,
+  "duration": 20101401,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1018223,
+  "duration": 348411,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14848774,
+  "duration": 13654454,
   "status": "passed"
 });
 formatter.scenario({
@@ -3262,7 +3262,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 13256889,
+  "duration": 12457435,
   "status": "passed"
 });
 formatter.match({
@@ -3275,14 +3275,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 15176118,
+  "duration": 17428633,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 20481682,
+  "duration": 27319172,
   "status": "passed"
 });
 formatter.match({
@@ -3299,11 +3299,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 15955045,
+  "duration": 28778716,
   "status": "passed"
 });
 formatter.after({
-  "duration": 471570,
+  "duration": 359214,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3376,7 +3376,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9345507,
+  "duration": 11299307,
   "status": "passed"
 });
 formatter.scenario({
@@ -3418,7 +3418,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10423689,
+  "duration": 17659286,
   "status": "passed"
 });
 formatter.match({
@@ -3431,14 +3431,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 20333675,
+  "duration": 21512869,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 23726492,
+  "duration": 27933887,
   "status": "passed"
 });
 formatter.match({
@@ -3455,15 +3455,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 16145726,
+  "duration": 26095684,
   "status": "passed"
 });
 formatter.after({
-  "duration": 338148,
+  "duration": 1475748,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10051511,
+  "duration": 10603566,
   "status": "passed"
 });
 formatter.scenario({
@@ -3505,7 +3505,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12359664,
+  "duration": 11915102,
   "status": "passed"
 });
 formatter.match({
@@ -3518,14 +3518,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 15087529,
+  "duration": 20205114,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 67566808,
+  "duration": 31099832,
   "status": "passed"
 });
 formatter.match({
@@ -3542,15 +3542,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 17248215,
+  "duration": 17838083,
   "status": "passed"
 });
 formatter.after({
-  "duration": 757321,
+  "duration": 5683684,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11366828,
+  "duration": 11107006,
   "status": "passed"
 });
 formatter.scenario({
@@ -3592,7 +3592,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11224763,
+  "duration": 14707789,
   "status": "passed"
 });
 formatter.match({
@@ -3605,14 +3605,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14210831,
+  "duration": 47506460,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 28331994,
+  "duration": 30020570,
   "status": "passed"
 });
 formatter.match({
@@ -3629,11 +3629,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 17723026,
+  "duration": 17601487,
   "status": "passed"
 });
 formatter.after({
-  "duration": 865354,
+  "duration": 771365,
   "status": "passed"
 });
 formatter.uri("userStory2.feature");
@@ -3709,7 +3709,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9533486,
+  "duration": 13092136,
   "status": "passed"
 });
 formatter.scenario({
@@ -3755,7 +3755,7 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14883345,
+  "duration": 12961954,
   "status": "passed"
 });
 formatter.match({
@@ -3768,7 +3768,7 @@ formatter.match({
   "location": "Stepdefs.theUserClickOnOfTheTeam(String)"
 });
 formatter.result({
-  "duration": 198908421,
+  "duration": 228442297,
   "status": "passed"
 });
 formatter.match({
@@ -3785,15 +3785,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationOpensANewPageWithAllInformationAndAboutThe(String,String)"
 });
 formatter.result({
-  "duration": 70787851,
+  "duration": 69100355,
   "status": "passed"
 });
 formatter.after({
-  "duration": 960425,
+  "duration": 567720,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9074340,
+  "duration": 14048240,
   "status": "passed"
 });
 formatter.scenario({
@@ -3839,7 +3839,7 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 28625847,
+  "duration": 11271758,
   "status": "passed"
 });
 formatter.match({
@@ -3852,7 +3852,7 @@ formatter.match({
   "location": "Stepdefs.theUserClickOnOfTheTeam(String)"
 });
 formatter.result({
-  "duration": 260484728,
+  "duration": 254574172,
   "status": "passed"
 });
 formatter.match({
@@ -3869,15 +3869,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationOpensANewPageWithAllInformationAndAboutThe(String,String)"
 });
 formatter.result({
-  "duration": 40531767,
+  "duration": 52350178,
   "status": "passed"
 });
 formatter.after({
-  "duration": 830244,
+  "duration": 290072,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8544433,
+  "duration": 11657441,
   "status": "passed"
 });
 formatter.scenario({
@@ -3923,7 +3923,7 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 12040962,
+  "duration": 11023819,
   "status": "passed"
 });
 formatter.match({
@@ -3936,7 +3936,7 @@ formatter.match({
   "location": "Stepdefs.theUserClickOnOfTheTeam(String)"
 });
 formatter.result({
-  "duration": 275639779,
+  "duration": 284280362,
   "status": "passed"
 });
 formatter.match({
@@ -3953,11 +3953,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationOpensANewPageWithAllInformationAndAboutThe(String,String)"
 });
 formatter.result({
-  "duration": 47329825,
+  "duration": 38224694,
   "status": "passed"
 });
 formatter.after({
-  "duration": 312219,
+  "duration": 982032,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4030,7 +4030,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 10875272,
+  "duration": 8510401,
   "status": "passed"
 });
 formatter.scenario({
@@ -4081,7 +4081,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 41789826,
+  "duration": 48187616,
   "status": "passed"
 });
 formatter.match({
@@ -4094,14 +4094,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 54703705,
+  "duration": 55184998,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 84514148,
+  "duration": 98801144,
   "status": "passed"
 });
 formatter.match({
@@ -4118,15 +4118,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowName(String,String)"
 });
 formatter.result({
-  "duration": 274083005,
+  "duration": 304306139,
   "status": "passed"
 });
 formatter.after({
-  "duration": 495877,
+  "duration": 727071,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12218679,
+  "duration": 16303996,
   "status": "passed"
 });
 formatter.scenario({
@@ -4177,7 +4177,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 30466211,
+  "duration": 46492018,
   "status": "passed"
 });
 formatter.match({
@@ -4190,14 +4190,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 52278335,
+  "duration": 55653867,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 85450805,
+  "duration": 78897446,
   "status": "passed"
 });
 formatter.match({
@@ -4214,15 +4214,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowName(String,String)"
 });
 formatter.result({
-  "duration": 238008734,
+  "duration": 230574894,
   "status": "passed"
 });
 formatter.after({
-  "duration": 587166,
+  "duration": 422414,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14899550,
+  "duration": 7320404,
   "status": "passed"
 });
 formatter.scenario({
@@ -4273,7 +4273,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 39527588,
+  "duration": 35974880,
   "status": "passed"
 });
 formatter.match({
@@ -4286,14 +4286,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 54780409,
+  "duration": 40489093,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 83731980,
+  "duration": 52833631,
   "status": "passed"
 });
 formatter.match({
@@ -4310,11 +4310,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowName(String,String)"
 });
 formatter.result({
-  "duration": 234064401,
+  "duration": 226330767,
   "status": "passed"
 });
 formatter.after({
-  "duration": 295474,
+  "duration": 527748,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4332,7 +4332,7 @@ formatter.step({
 });
 formatter.step({
   "line": 31,
-  "name": "some \u003cmember\u003e of team don\u0027t have name",
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
   "keyword": "And "
 });
 formatter.step({
@@ -4361,7 +4361,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "miriam",
+        "Miriam Pereira",
         "User"
       ],
       "line": 37,
@@ -4369,7 +4369,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "vítor",
+        "Vítor Dias",
         "User"
       ],
       "line": 38,
@@ -4377,7 +4377,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "pedro",
+        "Pedro Jorge",
         "User"
       ],
       "line": 39,
@@ -4387,7 +4387,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9344426,
+  "duration": 6339453,
   "status": "passed"
 });
 formatter.scenario({
@@ -4400,7 +4400,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 30,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
   "matchedColumns": [
     0
   ],
@@ -4408,7 +4408,10 @@ formatter.step({
 });
 formatter.step({
   "line": 31,
-  "name": "some \u003cmember\u003e of team don\u0027t have name",
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
   "keyword": "And "
 });
 formatter.step({
@@ -4427,36 +4430,46 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "miriam",
+      "val": "Miriam Pereira",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 27886893,
+  "duration": 32812716,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 43866245,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 74327595,
+  "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 10312954,
+  "duration": 601211,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12960874,
+  "duration": 11119970,
   "status": "passed"
 });
 formatter.scenario({
@@ -4469,7 +4482,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 30,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
   "matchedColumns": [
     0
   ],
@@ -4477,7 +4490,10 @@ formatter.step({
 });
 formatter.step({
   "line": 31,
-  "name": "some \u003cmember\u003e of team don\u0027t have name",
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
   "keyword": "And "
 });
 formatter.step({
@@ -4496,36 +4512,46 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "vítor",
+      "val": "Vítor Dias",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 34729785,
+  "duration": 34055111,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 32178014,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 52883327,
+  "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 257121,
+  "duration": 359754,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7002242,
+  "duration": 5825749,
   "status": "passed"
 });
 formatter.scenario({
@@ -4538,7 +4564,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 30,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
   "matchedColumns": [
     0
   ],
@@ -4546,7 +4572,10 @@ formatter.step({
 });
 formatter.step({
   "line": 31,
-  "name": "some \u003cmember\u003e of team don\u0027t have name",
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
   "keyword": "And "
 });
 formatter.step({
@@ -4565,32 +4594,42 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "pedro",
+      "val": "Pedro Jorge",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 24220208,
+  "duration": 30993958,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 34778400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 91501806,
   "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
 formatter.after({
-  "duration": 236595,
+  "duration": 293313,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4608,7 +4647,7 @@ formatter.step({
 });
 formatter.step({
   "line": 43,
-  "name": "some \u003cmember\u003e of team have \u003cphoto\u003e",
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
   "keyword": "And "
 });
 formatter.step({
@@ -4618,7 +4657,7 @@ formatter.step({
 });
 formatter.step({
   "line": 45,
-  "name": "the application show \u003cmember\u003e\u0027s \u003cphoto\u003e",
+  "name": "the application show \"\u003cmembers\u003e\" photos \"\u003cphoto\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -4637,7 +4676,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "miriam",
+        "Miriam Pereira",
         "miriam.jpg"
       ],
       "line": 49,
@@ -4645,7 +4684,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "vítor",
+        "Vítor Dias",
         "vítor.jpg"
       ],
       "line": 50,
@@ -4653,7 +4692,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "pedro",
+        "Pedro Jorge",
         "pedro.jpg"
       ],
       "line": 51,
@@ -4663,7 +4702,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 5754447,
+  "duration": 8073403,
   "status": "passed"
 });
 formatter.scenario({
@@ -4676,7 +4715,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 42,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
   "matchedColumns": [
     0
   ],
@@ -4684,9 +4723,9 @@ formatter.step({
 });
 formatter.step({
   "line": 43,
-  "name": "some \u003cmember\u003e of team have miriam.jpg",
+  "name": "exists \"Miriam Pereira\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
@@ -4697,8 +4736,9 @@ formatter.step({
 });
 formatter.step({
   "line": 45,
-  "name": "the application show \u003cmember\u003e\u0027s miriam.jpg",
+  "name": "the application show \"Miriam Pereira\" photos \"miriam.jpg\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -4706,36 +4746,59 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "miriam",
+      "val": "Miriam Pereira",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32756538,
+  "duration": 32330884,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 29333471,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 54446043,
+  "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 22
+    },
+    {
+      "val": "miriam.jpg",
+      "offset": 46
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowPhotos(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 31870657,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 792431,
+  "duration": 255501,
   "status": "passed"
 });
 formatter.before({
-  "duration": 17678732,
+  "duration": 6657073,
   "status": "passed"
 });
 formatter.scenario({
@@ -4748,7 +4811,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 42,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
   "matchedColumns": [
     0
   ],
@@ -4756,9 +4819,9 @@ formatter.step({
 });
 formatter.step({
   "line": 43,
-  "name": "some \u003cmember\u003e of team have vítor.jpg",
+  "name": "exists \"Vítor Dias\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
@@ -4769,8 +4832,9 @@ formatter.step({
 });
 formatter.step({
   "line": 45,
-  "name": "the application show \u003cmember\u003e\u0027s vítor.jpg",
+  "name": "the application show \"Vítor Dias\" photos \"vítor.jpg\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -4778,36 +4842,59 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "vítor",
+      "val": "Vítor Dias",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 25247614,
+  "duration": 28516733,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 37640768,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 143370151,
+  "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 22
+    },
+    {
+      "val": "vítor.jpg",
+      "offset": 42
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowPhotos(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 38623880,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 222550,
+  "duration": 525046,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6399951,
+  "duration": 16621076,
   "status": "passed"
 });
 formatter.scenario({
@@ -4820,7 +4907,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 42,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
   "matchedColumns": [
     0
   ],
@@ -4828,9 +4915,9 @@ formatter.step({
 });
 formatter.step({
   "line": 43,
-  "name": "some \u003cmember\u003e of team have pedro.jpg",
+  "name": "exists \"Pedro Jorge\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
@@ -4841,8 +4928,9 @@ formatter.step({
 });
 formatter.step({
   "line": 45,
-  "name": "the application show \u003cmember\u003e\u0027s pedro.jpg",
+  "name": "the application show \"Pedro Jorge\" photos \"pedro.jpg\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -4850,32 +4938,55 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "pedro",
+      "val": "Pedro Jorge",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 25422630,
+  "duration": 32627438,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 40418870,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 91010251,
+  "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 22
+    },
+    {
+      "val": "pedro.jpg",
+      "offset": 43
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowPhotos(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 36880747,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 232273,
+  "duration": 236595,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4893,7 +5004,7 @@ formatter.step({
 });
 formatter.step({
   "line": 55,
-  "name": "some \u003cmember\u003e of team don\u0027t have photo",
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
   "keyword": "And "
 });
 formatter.step({
@@ -4922,7 +5033,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "miriam",
+        "Miriam Pereira",
         "default.jpg"
       ],
       "line": 61,
@@ -4930,7 +5041,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "vítor",
+        "Vítor Dias",
         "default.jpg"
       ],
       "line": 62,
@@ -4938,7 +5049,7 @@ formatter.examples({
     },
     {
       "cells": [
-        "pedro",
+        "Pedro Jorge",
         "default.jpg"
       ],
       "line": 63,
@@ -4948,7 +5059,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 10614370,
+  "duration": 10312413,
   "status": "passed"
 });
 formatter.scenario({
@@ -4961,7 +5072,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 54,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
   "matchedColumns": [
     0
   ],
@@ -4969,7 +5080,10 @@ formatter.step({
 });
 formatter.step({
   "line": 55,
-  "name": "some \u003cmember\u003e of team don\u0027t have photo",
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
   "keyword": "And "
 });
 formatter.step({
@@ -4988,36 +5102,46 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "miriam",
+      "val": "Miriam Pereira",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 26840580,
+  "duration": 29151974,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 41356609,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 63491215,
+  "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 402968,
+  "duration": 266304,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8501759,
+  "duration": 12569790,
   "status": "passed"
 });
 formatter.scenario({
@@ -5030,7 +5154,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 54,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
   "matchedColumns": [
     0
   ],
@@ -5038,7 +5162,10 @@ formatter.step({
 });
 formatter.step({
   "line": 55,
-  "name": "some \u003cmember\u003e of team don\u0027t have photo",
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
   "keyword": "And "
 });
 formatter.step({
@@ -5057,36 +5184,46 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "vítor",
+      "val": "Vítor Dias",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 34929648,
+  "duration": 32138042,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 40629538,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 76160397,
+  "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 250100,
+  "duration": 273327,
   "status": "passed"
 });
 formatter.before({
-  "duration": 19105325,
+  "duration": 11094042,
   "status": "passed"
 });
 formatter.scenario({
@@ -5099,7 +5236,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 54,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
   "matchedColumns": [
     0
   ],
@@ -5107,7 +5244,10 @@ formatter.step({
 });
 formatter.step({
   "line": 55,
-  "name": "some \u003cmember\u003e of team don\u0027t have photo",
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
   "keyword": "And "
 });
 formatter.step({
@@ -5126,32 +5266,42 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "pedro",
+      "val": "Pedro Jorge",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 34263076,
+  "duration": 38091272,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 54338009,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 58812249,
   "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
 formatter.after({
-  "duration": 271706,
+  "duration": 244698,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5169,7 +5319,7 @@ formatter.step({
 });
 formatter.step({
   "line": 67,
-  "name": "some \u003cmember\u003e of team have \u003cshort bio\u003e",
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
   "keyword": "And "
 });
 formatter.step({
@@ -5179,7 +5329,7 @@ formatter.step({
 });
 formatter.step({
   "line": 69,
-  "name": "the application show \u003cmember\u003e \u003cshort bio\u003e",
+  "name": "the application show members \"\u003cmembers\u003e\" short bio \"\u003cshort bio\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -5198,24 +5348,24 @@ formatter.examples({
     },
     {
       "cells": [
-        "miriam",
-        "21 years. Master\u0027s student. Front end developer."
+        "Miriam Pereira",
+        "21 years old. Master\u0027s student. Front End Developer."
       ],
       "line": 73,
       "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-short-bio;;2"
     },
     {
       "cells": [
-        "vítor",
-        "22 years. Master\u0027s student. Front end developer."
+        "Vítor Dias",
+        "22 years old. Master\u0027s student. Front End Developer."
       ],
       "line": 74,
       "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-short-bio;;3"
     },
     {
       "cells": [
-        "pedro",
-        "22 years. Master\u0027s student."
+        "Pedro Jorge",
+        "23 years old. Master\u0027s student."
       ],
       "line": 75,
       "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-short-bio;;4"
@@ -5224,7 +5374,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9584803,
+  "duration": 16662129,
   "status": "passed"
 });
 formatter.scenario({
@@ -5237,7 +5387,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 66,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
   "matchedColumns": [
     0
   ],
@@ -5245,9 +5395,9 @@ formatter.step({
 });
 formatter.step({
   "line": 67,
-  "name": "some \u003cmember\u003e of team have 21 years. Master\u0027s student. Front end developer.",
+  "name": "exists \"Miriam Pereira\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
@@ -5258,8 +5408,9 @@ formatter.step({
 });
 formatter.step({
   "line": 69,
-  "name": "the application show \u003cmember\u003e 21 years. Master\u0027s student. Front end developer.",
+  "name": "the application show members \"Miriam Pereira\" short bio \"21 years old. Master\u0027s student. Front End Developer.\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -5267,36 +5418,59 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "miriam",
+      "val": "Miriam Pereira",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 35509792,
+  "duration": 39146226,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 48056895,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 72142601,
+  "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 30
+    },
+    {
+      "val": "21 years old. Master\u0027s student. Front End Developer.",
+      "offset": 57
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowMembersShortBio(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 195330866,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 278729,
+  "duration": 266844,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7101094,
+  "duration": 5865722,
   "status": "passed"
 });
 formatter.scenario({
@@ -5309,7 +5483,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 66,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
   "matchedColumns": [
     0
   ],
@@ -5317,9 +5491,9 @@ formatter.step({
 });
 formatter.step({
   "line": 67,
-  "name": "some \u003cmember\u003e of team have 22 years. Master\u0027s student. Front end developer.",
+  "name": "exists \"Vítor Dias\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
@@ -5330,8 +5504,9 @@ formatter.step({
 });
 formatter.step({
   "line": 69,
-  "name": "the application show \u003cmember\u003e 22 years. Master\u0027s student. Front end developer.",
+  "name": "the application show members \"Vítor Dias\" short bio \"22 years old. Master\u0027s student. Front End Developer.\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -5339,36 +5514,59 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "vítor",
+      "val": "Vítor Dias",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 26586160,
+  "duration": 25431813,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 39068982,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 47510782,
+  "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 30
+    },
+    {
+      "val": "22 years old. Master\u0027s student. Front End Developer.",
+      "offset": 53
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowMembersShortBio(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 180429155,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 233894,
+  "duration": 275488,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8922553,
+  "duration": 6762407,
   "status": "passed"
 });
 formatter.scenario({
@@ -5381,7 +5579,7 @@ formatter.scenario({
 });
 formatter.step({
   "line": 66,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
   "matchedColumns": [
     0
   ],
@@ -5389,9 +5587,9 @@ formatter.step({
 });
 formatter.step({
   "line": 67,
-  "name": "some \u003cmember\u003e of team have 22 years. Master\u0027s student.",
+  "name": "exists \"Pedro Jorge\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
@@ -5402,8 +5600,9 @@ formatter.step({
 });
 formatter.step({
   "line": 69,
-  "name": "the application show \u003cmember\u003e 22 years. Master\u0027s student.",
+  "name": "the application show members \"Pedro Jorge\" short bio \"23 years old. Master\u0027s student.\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -5411,45 +5610,64 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "pedro",
+      "val": "Pedro Jorge",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 26438152,
+  "duration": 25941195,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 31137645,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 49751413,
+  "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 30
+    },
+    {
+      "val": "23 years old. Master\u0027s student.",
+      "offset": 54
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowMembersShortBio(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 158660245,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 246318,
+  "duration": 341928,
   "status": "passed"
 });
-formatter.before({
-  "duration": 5646413,
-  "status": "passed"
-});
-formatter.scenario({
+formatter.scenarioOutline({
   "line": 77,
   "name": "An member don\u0027t have short bio",
   "description": "",
   "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio",
-  "type": "scenario",
-  "keyword": "Scenario"
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 78,
@@ -5458,7 +5676,7 @@ formatter.step({
 });
 formatter.step({
   "line": 79,
-  "name": "some member of team don\u0027t have short bio",
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
   "keyword": "And "
 });
 formatter.step({
@@ -5468,218 +5686,88 @@ formatter.step({
 });
 formatter.step({
   "line": 81,
-  "name": "the application don\u0027t show member\u0027s short bio",
+  "name": "the application show \"\u003cmembers\u003e\" short bio message \"\u003cmsg\u003e\"",
   "keyword": "Then "
 });
-formatter.match({
-  "arguments": [
-    {
-      "val": "\u003cmembers\u003e",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 34043227,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 460766,
-  "status": "passed"
-});
-formatter.scenarioOutline({
+formatter.examples({
   "line": 83,
-  "name": "An member have facebook link",
+  "name": "",
   "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "msg"
+      ],
+      "line": 84,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "The user don\u0027t have information."
+      ],
+      "line": 85,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "The user don\u0027t have information."
+      ],
+      "line": 86,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "The user don\u0027t have information."
+      ],
+      "line": 87,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;;4"
+    }
+  ],
+  "keyword": "Examples"
 });
-formatter.step({
-  "line": 84,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
+formatter.before({
+  "duration": 5432504,
+  "status": "passed"
 });
-formatter.step({
+formatter.scenario({
   "line": 85,
-  "name": "some \u003cmember\u003e of team have \u003cfacebook link\u003e",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 86,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 87,
-  "name": "the application show facebook icon with \u003cmember\u003e\u0027s \u003cfacebook link\u003e",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 89,
-  "name": "",
+  "name": "An member don\u0027t have short bio",
   "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;",
-  "rows": [
-    {
-      "cells": [
-        "members",
-        "facebook link"
-      ],
-      "line": 90,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;1"
-    },
-    {
-      "cells": [
-        "miriam",
-        "https://www.facebook.com/miriampereira95"
-      ],
-      "line": 91,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;2"
-    },
-    {
-      "cells": [
-        "vítor",
-        "https://www.facebook.com/vitor.dias.3954"
-      ],
-      "line": 92,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;3"
-    },
-    {
-      "cells": [
-        "pedro",
-        "https://www.facebook.com/pedrombjorge"
-      ],
-      "line": 93,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;4"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 7718510,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 91,
-  "name": "An member have facebook link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;2",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;;2",
   "type": "scenario",
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "line": 84,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
+  "line": 78,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
   "matchedColumns": [
     0
   ],
   "keyword": "Given "
 });
 formatter.step({
-  "line": 85,
-  "name": "some \u003cmember\u003e of team have https://www.facebook.com/miriampereira95",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 86,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 87,
-  "name": "the application show facebook icon with \u003cmember\u003e\u0027s https://www.facebook.com/miriampereira95",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "miriam",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 36794320,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 298175,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 8738354,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 92,
-  "name": "An member have facebook link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 84,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
+  "line": 79,
+  "name": "exists \"Miriam Pereira\" on detailed page",
   "matchedColumns": [
     0
   ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 85,
-  "name": "some \u003cmember\u003e of team have https://www.facebook.com/vitor.dias.3954",
-  "matchedColumns": [
-    1
-  ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 86,
+  "line": 80,
   "name": "the detailed page is loaded",
   "keyword": "When "
 });
 formatter.step({
-  "line": 87,
-  "name": "the application show facebook icon with \u003cmember\u003e\u0027s https://www.facebook.com/vitor.dias.3954",
+  "line": 81,
+  "name": "the application show \"Miriam Pereira\" short bio message \"The user don\u0027t have information.\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -5687,1693 +5775,35 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "vítor",
+      "val": "Miriam Pereira",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 37714773,
+  "duration": 32054855,
   "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 314380,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 17978527,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 93,
-  "name": "An member have facebook link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 84,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 85,
-  "name": "some \u003cmember\u003e of team have https://www.facebook.com/pedrombjorge",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 86,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 87,
-  "name": "the application show facebook icon with \u003cmember\u003e\u0027s https://www.facebook.com/pedrombjorge",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
 });
 formatter.match({
   "arguments": [
     {
-      "val": "pedro",
-      "offset": 34
+      "val": "Miriam Pereira",
+      "offset": 8
     }
   ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+  "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 32268223,
+  "duration": 34940452,
   "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 1007960,
+  "duration": 62555638,
   "status": "passed"
-});
-formatter.before({
-  "duration": 9065158,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 95,
-  "name": "An member don\u0027t have facebook link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 96,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 97,
-  "name": "some member of team don\u0027t have facebook link",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 98,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 99,
-  "name": "the application show the disabled facebook icon",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "\u003cmembers\u003e",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 34227966,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 310058,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 101,
-  "name": "An member have linkedin link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 102,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 103,
-  "name": "some \u003cmember\u003e of team have \u003clinkedin link\u003e",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 104,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 105,
-  "name": "the application show linkedin icon with \u003cmember\u003e\u0027s \u003clinkedin link\u003e",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 107,
-  "name": "",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;",
-  "rows": [
-    {
-      "cells": [
-        "members",
-        "linkedin link"
-      ],
-      "line": 108,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;1"
-    },
-    {
-      "cells": [
-        "miriam",
-        "https://www.linkedin.com/in/miriammpereira/"
-      ],
-      "line": 109,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;2"
-    },
-    {
-      "cells": [
-        "vítor",
-        "https://www.linkedin.com/in/vítor-dias-6aa9a310b/"
-      ],
-      "line": 110,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;3"
-    },
-    {
-      "cells": [
-        "pedro",
-        "https://www.linkedin.com/in/pedrombjorge/"
-      ],
-      "line": 111,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;4"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 8953342,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 109,
-  "name": "An member have linkedin link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 102,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 103,
-  "name": "some \u003cmember\u003e of team have https://www.linkedin.com/in/miriammpereira/",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 104,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 105,
-  "name": "the application show linkedin icon with \u003cmember\u003e\u0027s https://www.linkedin.com/in/miriammpereira/",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "miriam",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 38984716,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 1214305,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 26394939,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 110,
-  "name": "An member have linkedin link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 102,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 103,
-  "name": "some \u003cmember\u003e of team have https://www.linkedin.com/in/vítor-dias-6aa9a310b/",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 104,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 105,
-  "name": "the application show linkedin icon with \u003cmember\u003e\u0027s https://www.linkedin.com/in/vítor-dias-6aa9a310b/",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "vítor",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 37059544,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 257662,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 10031524,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 111,
-  "name": "An member have linkedin link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 102,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 103,
-  "name": "some \u003cmember\u003e of team have https://www.linkedin.com/in/pedrombjorge/",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 104,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 105,
-  "name": "the application show linkedin icon with \u003cmember\u003e\u0027s https://www.linkedin.com/in/pedrombjorge/",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "pedro",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 84151693,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 287371,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 7854093,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 113,
-  "name": "An member don\u0027t have linkedin link",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 114,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 115,
-  "name": "some member of team don\u0027t have linkedin link",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 116,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 117,
-  "name": "the application show the disabled linkedin icon",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "\u003cmembers\u003e",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 26377654,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 510462,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 119,
-  "name": "An member have projects",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 120,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 121,
-  "name": "some \u003cmember\u003e of team have \u003cprojects\u003e",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 122,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 123,
-  "name": "the application show the \u003cmember\u003e\u0027s \u003cprojects\u003e.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 125,
-  "name": "",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;",
-  "rows": [
-    {
-      "cells": [
-        "members",
-        "projects"
-      ],
-      "line": 126,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;1"
-    },
-    {
-      "cells": [
-        "miriam",
-        "Irrigation4U, UCook, SIGOC"
-      ],
-      "line": 127,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;2"
-    },
-    {
-      "cells": [
-        "vítor",
-        "Irrigation4U, UCook, Leilão de Artigos"
-      ],
-      "line": 128,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;3"
-    },
-    {
-      "cells": [
-        "pedro",
-        "Irrigation4U, UCook, Leilão de Artigos"
-      ],
-      "line": 129,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;4"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 7891365,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 127,
-  "name": "An member have projects",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 120,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 121,
-  "name": "some \u003cmember\u003e of team have Irrigation4U, UCook, SIGOC",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 122,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 123,
-  "name": "the application show the \u003cmember\u003e\u0027s Irrigation4U, UCook, SIGOC.",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "miriam",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 25149844,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 715187,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 10249214,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 128,
-  "name": "An member have projects",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 120,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 121,
-  "name": "some \u003cmember\u003e of team have Irrigation4U, UCook, Leilão de Artigos",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 122,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 123,
-  "name": "the application show the \u003cmember\u003e\u0027s Irrigation4U, UCook, Leilão de Artigos.",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "vítor",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 39223471,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 293853,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 7743358,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 129,
-  "name": "An member have projects",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 120,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 121,
-  "name": "some \u003cmember\u003e of team have Irrigation4U, UCook, Leilão de Artigos",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 122,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 123,
-  "name": "the application show the \u003cmember\u003e\u0027s Irrigation4U, UCook, Leilão de Artigos.",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "pedro",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 36395674,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 289532,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 9582101,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 131,
-  "name": "An member don\u0027t have projects",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 132,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 133,
-  "name": "some member of team don\u0027t have projects",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 134,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 135,
-  "name": "the application don\u0027t show the projects section",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "\u003cmembers\u003e",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 38827526,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 312219,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 137,
-  "name": "An member have certificates",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 138,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 139,
-  "name": "some \u003cmember\u003e of team have \u003ccertificates\u003e",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 140,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 141,
-  "name": "the application show the \u003cmember\u003e\u0027s \u003ccertificates\u003e",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 143,
-  "name": "",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;",
-  "rows": [
-    {
-      "cells": [
-        "members",
-        "certificates"
-      ],
-      "line": 144,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;;1"
-    },
-    {
-      "cells": [
-        "miriam",
-        "CodeSchool, EggHead"
-      ],
-      "line": 145,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;;2"
-    },
-    {
-      "cells": [
-        "vítor",
-        "CodeSchool, EggHead"
-      ],
-      "line": 146,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;;3"
-    },
-    {
-      "cells": [
-        "pedro",
-        "Marketing Digital, FPF"
-      ],
-      "line": 147,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;;4"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 11052448,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 145,
-  "name": "An member have certificates",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 138,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 139,
-  "name": "some \u003cmember\u003e of team have CodeSchool, EggHead",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 140,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 141,
-  "name": "the application show the \u003cmember\u003e\u0027s CodeSchool, EggHead",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "miriam",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 48241633,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 2165007,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 10120113,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 146,
-  "name": "An member have certificates",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 138,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 139,
-  "name": "some \u003cmember\u003e of team have CodeSchool, EggHead",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 140,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 141,
-  "name": "the application show the \u003cmember\u003e\u0027s CodeSchool, EggHead",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "vítor",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 34795145,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 536391,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 9821398,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 147,
-  "name": "An member have certificates",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-certificates;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 138,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 139,
-  "name": "some \u003cmember\u003e of team have Marketing Digital, FPF",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 140,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 141,
-  "name": "the application show the \u003cmember\u003e\u0027s Marketing Digital, FPF",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "pedro",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 40139062,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 555296,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 8574142,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 149,
-  "name": "An member don\u0027t have certificates",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-certificates",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 150,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 151,
-  "name": "some member of team don\u0027t have certificates",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 152,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 153,
-  "name": "the application don\u0027t show the certificates section",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "\u003cmembers\u003e",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 33454980,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 494797,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 155,
-  "name": "An member have languages",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 156,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 157,
-  "name": "some \u003cmember\u003e of team have \u003clanguages\u003e",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 158,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 159,
-  "name": "the application show the \u003cmember\u003e\u0027s \u003clanguages\u003e",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 161,
-  "name": "",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;",
-  "rows": [
-    {
-      "cells": [
-        "members",
-        "languages"
-      ],
-      "line": 162,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;;1"
-    },
-    {
-      "cells": [
-        "miriam",
-        "Portuguese, English, Spanish"
-      ],
-      "line": 163,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;;2"
-    },
-    {
-      "cells": [
-        "vítor",
-        "Portuguese, English, Spanish, French"
-      ],
-      "line": 164,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;;3"
-    },
-    {
-      "cells": [
-        "pedro",
-        "Portuguese, English, Spanish"
-      ],
-      "line": 165,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;;4"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 8306757,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 163,
-  "name": "An member have languages",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 156,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 157,
-  "name": "some \u003cmember\u003e of team have Portuguese, English, Spanish",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 158,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 159,
-  "name": "the application show the \u003cmember\u003e\u0027s Portuguese, English, Spanish",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "miriam",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 43865164,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 259823,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 8884741,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 164,
-  "name": "An member have languages",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 156,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 157,
-  "name": "some \u003cmember\u003e of team have Portuguese, English, Spanish, French",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 158,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 159,
-  "name": "the application show the \u003cmember\u003e\u0027s Portuguese, English, Spanish, French",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "vítor",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 41400902,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 256582,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 7331207,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 165,
-  "name": "An member have languages",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-languages;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 156,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 157,
-  "name": "some \u003cmember\u003e of team have Portuguese, English, Spanish",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 158,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 159,
-  "name": "the application show the \u003cmember\u003e\u0027s Portuguese, English, Spanish",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "pedro",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 47894844,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 549894,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 10292427,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 167,
-  "name": "An member don\u0027t have languages",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-languages",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 168,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 169,
-  "name": "some member of team don\u0027t have languages",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 170,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 171,
-  "name": "the application don\u0027t show the languages section",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "\u003cmembers\u003e",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 28951570,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.after({
-  "duration": 267925,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 173,
-  "name": "An member have tags",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 174,
-  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 175,
-  "name": "some \u003cmember\u003e of team have \u003ctags\u003e",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 176,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 177,
-  "name": "the application show the \u003cmember\u003e\u0027s \u003ctags\u003e",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 179,
-  "name": "",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;",
-  "rows": [
-    {
-      "cells": [
-        "members",
-        "tags"
-      ],
-      "line": 180,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;1"
-    },
-    {
-      "cells": [
-        "miriam",
-        "#PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP"
-      ],
-      "line": 181,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;2"
-    },
-    {
-      "cells": [
-        "vítor",
-        "#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL"
-      ],
-      "line": 182,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;3"
-    },
-    {
-      "cells": [
-        "pedro",
-        "#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS"
-      ],
-      "line": 183,
-      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;4"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 9727948,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 181,
-  "name": "An member have tags",
-  "description": "",
-  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 174,
-  "name": "that I\u0027m in the detailed page of \"miriam\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 175,
-  "name": "some \u003cmember\u003e of team have #PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 176,
-  "name": "the detailed page is loaded",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 177,
-  "name": "the application show the \u003cmember\u003e\u0027s #PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "miriam",
-      "offset": 34
-    }
-  ],
-  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
-});
-formatter.result({
-  "duration": 30808680,
-  "status": "passed"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
 });
 formatter.match({});
 formatter.result({
@@ -7384,11 +5814,2317 @@ formatter.after({
   "status": "passed"
 });
 formatter.before({
-  "duration": 6728916,
+  "duration": 10383176,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 182,
+  "line": 86,
+  "name": "An member don\u0027t have short bio",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 78,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 79,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 80,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 81,
+  "name": "the application show \"Vítor Dias\" short bio message \"The user don\u0027t have information.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 29423680,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 34096704,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 63848808,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 549895,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 11372230,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 87,
+  "name": "An member don\u0027t have short bio",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-short-bio;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 78,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 79,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 80,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 81,
+  "name": "the application show \"Pedro Jorge\" short bio message \"The user don\u0027t have information.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 28812747,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 29911995,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 46332668,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 160971,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 89,
+  "name": "An member have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 90,
+  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 91,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 92,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 93,
+  "name": "the application show facebook icon with \"\u003cmembers\u003e\" facebook link \"\u003cfacebook link\u003e\"",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 95,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "facebook link"
+      ],
+      "line": 96,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "https://www.facebook.com/miriampereira95"
+      ],
+      "line": 97,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "https://www.facebook.com/vitor.dias.3954"
+      ],
+      "line": 98,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "https://www.facebook.com/pedrombjorge"
+      ],
+      "line": 99,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 8540111,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 97,
+  "name": "An member have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 90,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 91,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 92,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 93,
+  "name": "the application show facebook icon with \"Miriam Pereira\" facebook link \"https://www.facebook.com/miriampereira95\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 22182141,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 29834211,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 47502679,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 41
+    },
+    {
+      "val": "https://www.facebook.com/miriampereira95",
+      "offset": 72
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowFacebookIconWithFacebookLink(String,String)"
+});
+formatter.result({
+  "duration": 28028957,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 223091,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5112723,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 98,
+  "name": "An member have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 90,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 91,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 92,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 93,
+  "name": "the application show facebook icon with \"Vítor Dias\" facebook link \"https://www.facebook.com/vitor.dias.3954\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 23738376,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 27080417,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 61093933,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 41
+    },
+    {
+      "val": "https://www.facebook.com/vitor.dias.3954",
+      "offset": 68
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowFacebookIconWithFacebookLink(String,String)"
+});
+formatter.result({
+  "duration": 25162808,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 278728,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5360662,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 99,
+  "name": "An member have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-facebook-link;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 90,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 91,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 92,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 93,
+  "name": "the application show facebook icon with \"Pedro Jorge\" facebook link \"https://www.facebook.com/pedrombjorge\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 28733881,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 29210853,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 48033668,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 41
+    },
+    {
+      "val": "https://www.facebook.com/pedrombjorge",
+      "offset": 69
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowFacebookIconWithFacebookLink(String,String)"
+});
+formatter.result({
+  "duration": 42046407,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 211207,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 101,
+  "name": "An member don\u0027t have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 102,
+  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 103,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 104,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 105,
+  "name": "the application show the disabled facebook icon",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 107,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "facebook link"
+      ],
+      "line": 108,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "https://www.facebook.com/"
+      ],
+      "line": 109,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "https://www.facebook.com/"
+      ],
+      "line": 110,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "https://www.facebook.com/"
+      ],
+      "line": 111,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 7482455,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 109,
+  "name": "An member don\u0027t have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 102,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 103,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 104,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 105,
+  "name": "the application show the disabled facebook icon",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 28101340,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 27319172,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 54936519,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 250639,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 7197785,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 110,
+  "name": "An member don\u0027t have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 102,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 103,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 104,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 105,
+  "name": "the application show the disabled facebook icon",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 22989698,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 34533162,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 55972568,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 229032,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5341216,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 111,
+  "name": "An member don\u0027t have facebook link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 102,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 103,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 104,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 105,
+  "name": "the application show the disabled facebook icon",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 23042635,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 26377653,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 45421939,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 249559,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 113,
+  "name": "An member have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 114,
+  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 115,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 116,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 117,
+  "name": "the application show linkedin icon with \"\u003cmembers\u003e\" linkedin link \"\u003clinkedin link\u003e\"",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 119,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "linkedin link"
+      ],
+      "line": 120,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "https://www.linkedin.com/in/miriammpereira/"
+      ],
+      "line": 121,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "https://www.linkedin.com/in/vitor-dias-6aa9a310b/"
+      ],
+      "line": 122,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "https://www.linkedin.com/in/pedrombjorge/"
+      ],
+      "line": 123,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 5695028,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 121,
+  "name": "An member have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 114,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 115,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 116,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 117,
+  "name": "the application show linkedin icon with \"Miriam Pereira\" linkedin link \"https://www.linkedin.com/in/miriammpereira/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 24011162,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 28975338,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 53258207,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 41
+    },
+    {
+      "val": "https://www.linkedin.com/in/miriammpereira/",
+      "offset": 72
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowLinkedinIconWithLinkedinLink(String,String)"
+});
+formatter.result({
+  "duration": 24717706,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 243077,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4622788,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 122,
+  "name": "An member have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 114,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 115,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 116,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 117,
+  "name": "the application show linkedin icon with \"Vítor Dias\" linkedin link \"https://www.linkedin.com/in/vitor-dias-6aa9a310b/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 32117516,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 27607084,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 45857317,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 41
+    },
+    {
+      "val": "https://www.linkedin.com/in/vitor-dias-6aa9a310b/",
+      "offset": 68
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowLinkedinIconWithLinkedinLink(String,String)"
+});
+formatter.result({
+  "duration": 24443299,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 216609,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5040880,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 123,
+  "name": "An member have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-linkedin-link;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 114,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 115,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 116,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 117,
+  "name": "the application show linkedin icon with \"Pedro Jorge\" linkedin link \"https://www.linkedin.com/in/pedrombjorge/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 22280993,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 41726626,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 56977827,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 41
+    },
+    {
+      "val": "https://www.linkedin.com/in/pedrombjorge/",
+      "offset": 69
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowLinkedinIconWithLinkedinLink(String,String)"
+});
+formatter.result({
+  "duration": 27247330,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 294934,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 125,
+  "name": "An member don\u0027t have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 126,
+  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 127,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 128,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 129,
+  "name": "the application show the disabled linkedin icon",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 131,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "linkedin link"
+      ],
+      "line": 132,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "https://www.linkedin.com/"
+      ],
+      "line": 133,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "https://www.linkedin.com/"
+      ],
+      "line": 134,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "https://www.linkedin.com/"
+      ],
+      "line": 135,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 7648288,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 133,
+  "name": "An member don\u0027t have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 126,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 127,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 128,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 129,
+  "name": "the application show the disabled linkedin icon",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 24895963,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 27204656,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 48390181,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 279809,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5682604,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 134,
+  "name": "An member don\u0027t have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 126,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 127,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 128,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 129,
+  "name": "the application show the disabled linkedin icon",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 27105804,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 27369408,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 46835028,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 260362,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 9175353,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 135,
+  "name": "An member don\u0027t have linkedin link",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-linkedin-link;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 126,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 127,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 128,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 129,
+  "name": "the application show the disabled linkedin icon",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 28237463,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 32129399,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 53232819,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 251180,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 137,
+  "name": "An member have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 138,
+  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 139,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 140,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 141,
+  "name": "the application show the \"\u003cmembers\u003e\" projects \"\u003cprojects\u003e\"",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 143,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "projects"
+      ],
+      "line": 144,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "Irrigation4U"
+      ],
+      "line": 145,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "Online Auctions Website, Irrigation4U"
+      ],
+      "line": 146,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "Online Auctions Website, Irrigation4U"
+      ],
+      "line": 147,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 6009408,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 145,
+  "name": "An member have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 138,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 139,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 140,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 141,
+  "name": "the application show the \"Miriam Pereira\" projects \"Irrigation4U\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 25261659,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 29214094,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 48609491,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 26
+    },
+    {
+      "val": "Irrigation4U",
+      "offset": 52
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheProjects(String,String)"
+});
+formatter.result({
+  "duration": 79405,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 261983,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 7429519,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 146,
+  "name": "An member have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 138,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 139,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 140,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 141,
+  "name": "the application show the \"Vítor Dias\" projects \"Online Auctions Website, Irrigation4U\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 29346436,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 37015250,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 79976167,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 26
+    },
+    {
+      "val": "Online Auctions Website, Irrigation4U",
+      "offset": 48
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheProjects(String,String)"
+});
+formatter.result({
+  "duration": 80486,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 205265,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 4947971,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 147,
+  "name": "An member have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-projects;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 138,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 139,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 140,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 141,
+  "name": "the application show the \"Pedro Jorge\" projects \"Online Auctions Website, Irrigation4U\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 23030211,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 27420184,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 52923840,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 26
+    },
+    {
+      "val": "Online Auctions Website, Irrigation4U",
+      "offset": 49
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheProjects(String,String)"
+});
+formatter.result({
+  "duration": 207966,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 306278,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 149,
+  "name": "An member don\u0027t have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 150,
+  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 151,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 152,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 153,
+  "name": "the application don\u0027t show the projects section",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 155,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "msg projects"
+      ],
+      "line": 156,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "The user don\u0027t have information."
+      ],
+      "line": 157,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "The user don\u0027t have information."
+      ],
+      "line": 158,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "The user don\u0027t have information."
+      ],
+      "line": 159,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 5229400,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 157,
+  "name": "An member don\u0027t have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 150,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 151,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 152,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 153,
+  "name": "the application don\u0027t show the projects section",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 23485575,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 26974002,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 46023690,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 210127,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5884628,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 158,
+  "name": "An member don\u0027t have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 150,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 151,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 152,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 153,
+  "name": "the application don\u0027t show the projects section",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 23696242,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 29307543,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 52234582,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 252260,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5554584,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 159,
+  "name": "An member don\u0027t have projects",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-projects;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 150,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 151,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 152,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 153,
+  "name": "the application don\u0027t show the projects section",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 27959275,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 35764213,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 52296161,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 238215,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 161,
+  "name": "An member have tags",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 162,
+  "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 163,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 164,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 165,
+  "name": "the application show the \u003cmember\u003e\u0027s \u003ctags\u003e",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 167,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "tags"
+      ],
+      "line": 168,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "#PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP"
+      ],
+      "line": 169,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL"
+      ],
+      "line": 170,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS"
+      ],
+      "line": 171,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 7624520,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 169,
+  "name": "An member have tags",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 162,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 163,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 164,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 165,
+  "name": "the application show the \u003cmember\u003e\u0027s #PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 23180379,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 28888910,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 50010696,
+  "status": "passed"
+});
+formatter.match({});
+formatter.result({
+  "status": "undefined"
+});
+formatter.after({
+  "duration": 284671,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 6720814,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 170,
   "name": "An member have tags",
   "description": "",
   "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;3",
@@ -7396,28 +8132,28 @@ formatter.scenario({
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "line": 174,
-  "name": "that I\u0027m in the detailed page of \"vítor\"",
+  "line": 162,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
   "matchedColumns": [
     0
   ],
   "keyword": "Given "
 });
 formatter.step({
-  "line": 175,
-  "name": "some \u003cmember\u003e of team have #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL",
+  "line": 163,
+  "name": "exists \"Vítor Dias\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 176,
+  "line": 164,
   "name": "the detailed page is loaded",
   "keyword": "When "
 });
 formatter.step({
-  "line": 177,
+  "line": 165,
   "name": "the application show the \u003cmember\u003e\u0027s #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL",
   "matchedColumns": [
     1
@@ -7427,40 +8163,50 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "vítor",
+      "val": "Vítor Dias",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32175854,
+  "duration": 28810585,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 28391413,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 46207348,
+  "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 222551,
+  "duration": 258742,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6408594,
+  "duration": 5216436,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 183,
+  "line": 171,
   "name": "An member have tags",
   "description": "",
   "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-have-tags;;4",
@@ -7468,28 +8214,28 @@ formatter.scenario({
   "keyword": "Scenario Outline"
 });
 formatter.step({
-  "line": 174,
-  "name": "that I\u0027m in the detailed page of \"pedro\"",
+  "line": 162,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
   "matchedColumns": [
     0
   ],
   "keyword": "Given "
 });
 formatter.step({
-  "line": 175,
-  "name": "some \u003cmember\u003e of team have #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS",
+  "line": 163,
+  "name": "exists \"Pedro Jorge\" on detailed page",
   "matchedColumns": [
-    1
+    0
   ],
   "keyword": "And "
 });
 formatter.step({
-  "line": 176,
+  "line": 164,
   "name": "the detailed page is loaded",
   "keyword": "When "
 });
 formatter.step({
-  "line": 177,
+  "line": 165,
   "name": "the application show the \u003cmember\u003e\u0027s #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS",
   "matchedColumns": [
     1
@@ -7499,40 +8245,50 @@ formatter.step({
 formatter.match({
   "arguments": [
     {
-      "val": "pedro",
+      "val": "Pedro Jorge",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 29220035,
+  "duration": 24011702,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 27305668,
+  "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 49617451,
+  "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 740035,
+  "duration": 232274,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7873539,
+  "duration": 6070987,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 185,
+  "line": 173,
   "name": "An member don\u0027t have tags",
   "description": "",
   "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags",
@@ -7540,22 +8296,22 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 186,
+  "line": 174,
   "name": "that I\u0027m in the detailed page of \"\u003cmembers\u003e\"",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 187,
-  "name": "some member of team don\u0027t have tags",
+  "line": 175,
+  "name": "exists \"\u003cmembers\u003e\" on detailed page",
   "keyword": "And "
 });
 formatter.step({
-  "line": 188,
+  "line": 176,
   "name": "the detailed page is loaded",
   "keyword": "When "
 });
 formatter.step({
-  "line": 189,
+  "line": 177,
   "name": "the application don\u0027t show the tags section",
   "keyword": "Then "
 });
@@ -7569,25 +8325,35 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 36727339,
+  "duration": 23444522,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "\u003cmembers\u003e",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 34828096,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 65064734,
   "status": "passed"
 });
 formatter.match({});
 formatter.result({
   "status": "undefined"
 });
-formatter.match({
-  "location": "Stepdefs.theDetailedPageIsLoaded()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({});
-formatter.result({
-  "status": "undefined"
-});
 formatter.after({
-  "duration": 286831,
+  "duration": 258742,
   "status": "passed"
 });
 formatter.uri("userStory3.feature");
@@ -7599,7 +8365,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 13691186,
+  "duration": 6314065,
   "status": "passed"
 });
 formatter.scenario({
@@ -7638,11 +8404,11 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 488315,
+  "duration": 287911,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6358898,
+  "duration": 6752143,
   "status": "passed"
 });
 formatter.scenario({
@@ -7681,11 +8447,11 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 267385,
+  "duration": 291153,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6861258,
+  "duration": 5906235,
   "status": "passed"
 });
 formatter.scenario({
@@ -7724,11 +8490,11 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 482373,
+  "duration": 268465,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8299195,
+  "duration": 6078010,
   "status": "passed"
 });
 formatter.scenario({
@@ -7767,7 +8533,7 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 523966,
+  "duration": 273867,
   "status": "passed"
 });
 });

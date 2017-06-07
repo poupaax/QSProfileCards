@@ -42,13 +42,13 @@ Scenario Outline: An member have photo
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show <member>'s <photo>
+Then the application show "<members>" photos "<photo>"
 
 Examples:
-|members | photo		|
-|miriam  | miriam.jpg	|
-|vítor	 | vítor.jpg	|
-|pedro 	 | pedro.jpg	|
+|members         | photo		|
+|Miriam Pereira  | miriam.jpg	|
+|Vítor Dias	     | vítor.jpg	|
+|Pedro Jorge 	 | pedro.jpg	|
 
 Scenario Outline: An member don't have photo
 Given that I'm in the detailed page of "<members>"
@@ -57,133 +57,127 @@ When the detailed page is loaded
 Then the application show a <default photo>
 
 Examples:
-|members | default photo	|
-|miriam | default.jpg	|
-|vítor	| default.jpg	|
-|pedro 	| default.jpg	|
+|members        | default photo	|
+|Miriam Pereira | default.jpg	|
+|Vítor Dias	    | default.jpg	|
+|Pedro Jorge 	| default.jpg	|
 
 Scenario Outline: An member have short bio
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show <member> <short bio>
+Then the application show members "<members>" short bio "<short bio>"
 
 Examples:
-|members | short bio                         				|
-|miriam | 21 years. Master's student. Front end developer. 	|
-|vítor	| 22 years. Master's student. Front end developer.  |
-|pedro 	| 22 years. Master's student.						|
+|members        | short bio                         				  |
+|Miriam Pereira | 21 years old. Master's student. Front End Developer.|
+|Vítor Dias	    | 22 years old. Master's student. Front End Developer.|
+|Pedro Jorge 	| 23 years old. Master's student.					  |
 
-Scenario: An member don't have short bio
+Scenario Outline: An member don't have short bio
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application don't show member's short bio
+Then the application show "<members>" short bio message "<msg>"
+
+Examples:
+|members        | msg                         	  |
+|Miriam Pereira | The user don't have information.|
+|Vítor Dias	    | The user don't have information.|
+|Pedro Jorge 	| The user don't have information.|
 
 Scenario Outline: An member have facebook link
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show facebook icon with <member>'s <facebook link>
+Then the application show facebook icon with "<members>" facebook link "<facebook link>"
 
 Examples:
-|members | facebook link           					|
-|miriam | https://www.facebook.com/miriampereira95	|
-|vítor	| https://www.facebook.com/vitor.dias.3954	|
-|pedro 	| https://www.facebook.com/pedrombjorge		|
+|members        | facebook link           					|
+|Miriam Pereira | https://www.facebook.com/miriampereira95	|
+|Vítor Dias	    | https://www.facebook.com/vitor.dias.3954	|
+|Pedro Jorge 	| https://www.facebook.com/pedrombjorge		|
 
-Scenario: An member don't have facebook link
+Scenario Outline: An member don't have facebook link
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the disabled facebook icon
+Then the application show the "<members>" facebook default "<face link>"
+
+Examples:
+|members        | face link           	|
+|Miriam Pereira | https://www.facebook.com/	|
+|Vítor Dias	    | https://www.facebook.com/	|
+|Pedro Jorge 	| https://www.facebook.com/	|
 
 Scenario Outline: An member have linkedin link
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show linkedin icon with <member>'s <linkedin link>
+Then the application show linkedin icon with "<members>" linkedin link "<linkedin link>"
 
 Examples:
-|members | linkedin link           							|
-|miriam | https://www.linkedin.com/in/miriammpereira/		|
-|vítor	| https://www.linkedin.com/in/vítor-dias-6aa9a310b/	|
-|pedro 	| https://www.linkedin.com/in/pedrombjorge/			|
+|members        | linkedin link           							|
+|Miriam Pereira | https://www.linkedin.com/in/miriammpereira/		|
+|Vítor Dias	    | https://www.linkedin.com/in/vitor-dias-6aa9a310b/	|
+|Pedro Jorge 	| https://www.linkedin.com/in/pedrombjorge/			|
 
-Scenario: An member don't have linkedin link
+Scenario Outline: An member don't have linkedin link
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the disabled linkedin icon
+Then the application show the "<members>" linkedin default "<linkedin link>"
+
+Examples:
+|members        | linkedin link           	|
+|Miriam Pereira | https://www.linkedin.com/	|
+|Vítor Dias	    | https://www.linkedin.com/	|
+|Pedro Jorge 	| https://www.linkedin.com/ |
 
 Scenario Outline: An member have projects
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the <member>'s <projects>.
+Then the application show the "<members>" projects "<projects>"
 
 Examples:
-|members | projects       							|
-|miriam | Irrigation4U, UCook, SIGOC				|
-|vítor	| Irrigation4U, UCook, Leilão de Artigos	|
-|pedro 	| Irrigation4U, UCook, Leilão de Artigos	|
+|members        | projects       				        |
+|Miriam Pereira | Irrigation4U			                |
+|Vítor Dias	    | Online Auctions Website, Irrigation4U |
+|Pedro Jorge 	| Online Auctions Website, Irrigation4U	|
 
-Scenario: An member don't have projects
+Scenario Outline: An member don't have projects
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application don't show the projects section
-
-Scenario Outline: An member have certificates
-Given that I'm in the detailed page of "<members>"
-And exists "<members>" on detailed page
-When the detailed page is loaded
-Then the application show the <member>'s <certificates>
+Then the application show the "<members>" projects "<msg projects>"
 
 Examples:
-|members | certificates  			|
-|miriam | CodeSchool, EggHead		|
-|vítor	| CodeSchool, EggHead		|
-|pedro 	| Marketing Digital, FPF	|
-
-Scenario: An member don't have certificates
-Given that I'm in the detailed page of "<members>"
-And exists "<members>" on detailed page
-When the detailed page is loaded
-Then the application don't show the certificates section
-
-Scenario Outline: An member have languages
-Given that I'm in the detailed page of "<members>"
-And exists "<members>" on detailed page
-When the detailed page is loaded
-Then the application show the <member>'s <languages>
-
-Examples:
-|members | languages  							|
-|miriam | Portuguese, English, Spanish			|
-|vítor	| Portuguese, English, Spanish, French	|
-|pedro 	| Portuguese, English, Spanish			|
-
-Scenario: An member don't have languages
-Given that I'm in the detailed page of "<members>"
-And exists "<members>" on detailed page
-When the detailed page is loaded
-Then the application don't show the languages section
+|members        | msg projects       			    |
+|Miriam Pereira | The user don't have information.  |
+|Vítor Dias	    | The user don't have information.	|
+|Pedro Jorge 	| The user don't have information.	|
 
 Scenario Outline: An member have tags
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the <member>'s <tags>
+Then the application show the "<members>" tags "<tags>"
 
 Examples:
-|members | tags																									|
-|miriam | #PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP									|
-|vítor	| #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL	|
-|pedro 	| #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS								|
+|members        | tags																									|
+|Miriam Pereira | #PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP									|
+|Vítor Dias	    | #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL	|
+|Pedro Jorge 	| #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS								|
 
-Scenario: An member don't have tags
+Scenario Outline: An member don't have tags
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application don't show the tags section
+Then the application show the "<members>" tags "<msg tags>"
+
+Examples:
+|members        | msg tags       			|
+|Miriam Pereira | The user don't have tags. |
+|Vítor Dias	    | The user don't have tags.	|
+|Pedro Jorge 	| The user don't have tags.	|
