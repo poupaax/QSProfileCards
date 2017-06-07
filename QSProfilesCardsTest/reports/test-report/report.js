@@ -76,7 +76,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 3003131914,
+  "duration": 3496653637,
   "status": "passed"
 });
 formatter.scenario({
@@ -118,7 +118,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 338318576,
+  "duration": 345622774,
   "status": "passed"
 });
 formatter.match({
@@ -131,14 +131,14 @@ formatter.match({
   "location": "Stepdefs.doesnTExists(String)"
 });
 formatter.result({
-  "duration": 1343129343,
+  "duration": 1319491979,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 150274623,
+  "duration": 108751102,
   "status": "passed"
 });
 formatter.match({
@@ -155,15 +155,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsADefaultMessageToMember(String,String)"
 });
 formatter.result({
-  "duration": 417856124,
+  "duration": 356378669,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1630777,
+  "duration": 926934,
   "status": "passed"
 });
 formatter.before({
-  "duration": 311233298,
+  "duration": 298778564,
   "status": "passed"
 });
 formatter.scenario({
@@ -205,7 +205,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 41149183,
+  "duration": 50247830,
   "status": "passed"
 });
 formatter.match({
@@ -218,14 +218,14 @@ formatter.match({
   "location": "Stepdefs.doesnTExists(String)"
 });
 formatter.result({
-  "duration": 327981854,
+  "duration": 328898525,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 85462149,
+  "duration": 64824358,
   "status": "passed"
 });
 formatter.match({
@@ -242,15 +242,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsADefaultMessageToMember(String,String)"
 });
 formatter.result({
-  "duration": 283068217,
+  "duration": 338589202,
   "status": "passed"
 });
 formatter.after({
-  "duration": 333286,
+  "duration": 1969465,
   "status": "passed"
 });
 formatter.before({
-  "duration": 18395000,
+  "duration": 11648257,
   "status": "passed"
 });
 formatter.scenario({
@@ -292,7 +292,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 38878842,
+  "duration": 27155501,
   "status": "passed"
 });
 formatter.match({
@@ -305,14 +305,14 @@ formatter.match({
   "location": "Stepdefs.doesnTExists(String)"
 });
 formatter.result({
-  "duration": 345029126,
+  "duration": 304900868,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 50591379,
+  "duration": 52049303,
   "status": "passed"
 });
 formatter.match({
@@ -329,11 +329,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsADefaultMessageToMember(String,String)"
 });
 formatter.result({
-  "duration": 321504659,
+  "duration": 227354392,
   "status": "passed"
 });
 formatter.after({
-  "duration": 456445,
+  "duration": 790270,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -406,7 +406,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 11013016,
+  "duration": 8943079,
   "status": "passed"
 });
 formatter.scenario({
@@ -448,7 +448,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 20581074,
+  "duration": 13810024,
   "status": "passed"
 });
 formatter.match({
@@ -461,14 +461,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 32242295,
+  "duration": 20633470,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 42082598,
+  "duration": 40695439,
   "status": "passed"
 });
 formatter.match({
@@ -485,15 +485,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsName(String,String)"
 });
 formatter.result({
-  "duration": 235200923,
+  "duration": 227513202,
   "status": "passed"
 });
 formatter.after({
-  "duration": 376499,
+  "duration": 377580,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12597879,
+  "duration": 11798426,
   "status": "passed"
 });
 formatter.scenario({
@@ -535,7 +535,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 14676459,
+  "duration": 13586393,
   "status": "passed"
 });
 formatter.match({
@@ -548,14 +548,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 20404978,
+  "duration": 18134097,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 39014965,
+  "duration": 33184894,
   "status": "passed"
 });
 formatter.match({
@@ -572,15 +572,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsName(String,String)"
 });
 formatter.result({
-  "duration": 255273694,
+  "duration": 223547263,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1300733,
+  "duration": 646045,
   "status": "passed"
 });
 formatter.before({
-  "duration": 21796459,
+  "duration": 9592365,
   "status": "passed"
 });
 formatter.scenario({
@@ -622,7 +622,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 16613514,
+  "duration": 13122385,
   "status": "passed"
 });
 formatter.match({
@@ -635,14 +635,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 20195931,
+  "duration": 14704008,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27898236,
+  "duration": 26813032,
   "status": "passed"
 });
 formatter.match({
@@ -659,11 +659,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowsName(String,String)"
 });
 formatter.result({
-  "duration": 197604447,
+  "duration": 203793732,
   "status": "passed"
 });
 formatter.after({
-  "duration": 316541,
+  "duration": 301956,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -736,7 +736,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9246655,
+  "duration": 10387497,
   "status": "passed"
 });
 formatter.scenario({
@@ -778,7 +778,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 13215295,
+  "duration": 14228116,
   "status": "passed"
 });
 formatter.match({
@@ -791,14 +791,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 22158914,
+  "duration": 18669946,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 29451229,
+  "duration": 35816069,
   "status": "passed"
 });
 formatter.match({
@@ -815,15 +815,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowToThe(String,String)"
 });
 formatter.result({
-  "duration": 225317405,
+  "duration": 246475921,
   "status": "passed"
 });
 formatter.after({
-  "duration": 298175,
+  "duration": 1144624,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10761296,
+  "duration": 14721293,
   "status": "passed"
 });
 formatter.scenario({
@@ -865,7 +865,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10944954,
+  "duration": 16200282,
   "status": "passed"
 });
 formatter.match({
@@ -878,14 +878,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 16856591,
+  "duration": 21430762,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 31337508,
+  "duration": 36368125,
   "status": "passed"
 });
 formatter.match({
@@ -902,15 +902,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowToThe(String,String)"
 });
 formatter.result({
-  "duration": 224836652,
+  "duration": 213060374,
   "status": "passed"
 });
 formatter.after({
-  "duration": 346250,
+  "duration": 288992,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8924173,
+  "duration": 35641594,
   "status": "passed"
 });
 formatter.scenario({
@@ -952,7 +952,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10109309,
+  "duration": 10734828,
   "status": "passed"
 });
 formatter.match({
@@ -965,14 +965,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14756944,
+  "duration": 17487512,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 19775678,
+  "duration": 33782864,
   "status": "passed"
 });
 formatter.match({
@@ -989,11 +989,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowToThe(String,String)"
 });
 formatter.result({
-  "duration": 195324384,
+  "duration": 188951981,
   "status": "passed"
 });
 formatter.after({
-  "duration": 313840,
+  "duration": 313839,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1066,7 +1066,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6148231,
+  "duration": 7388466,
   "status": "passed"
 });
 formatter.scenario({
@@ -1108,7 +1108,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 9850567,
+  "duration": 9355770,
   "status": "passed"
 });
 formatter.match({
@@ -1121,14 +1121,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 17324379,
+  "duration": 17540988,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 19903698,
+  "duration": 21226578,
   "status": "passed"
 });
 formatter.match({
@@ -1145,15 +1145,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhoto(String,String)"
 });
 formatter.result({
-  "duration": 19213899,
+  "duration": 19402419,
   "status": "passed"
 });
 formatter.after({
-  "duration": 982032,
+  "duration": 365156,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14987598,
+  "duration": 11031382,
   "status": "passed"
 });
 formatter.scenario({
@@ -1195,7 +1195,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 19705455,
+  "duration": 12514693,
   "status": "passed"
 });
 formatter.match({
@@ -1208,14 +1208,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 32679293,
+  "duration": 25217365,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 22809280,
+  "duration": 30773568,
   "status": "passed"
 });
 formatter.match({
@@ -1232,15 +1232,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhoto(String,String)"
 });
 formatter.result({
-  "duration": 29084992,
+  "duration": 21779173,
   "status": "passed"
 });
 formatter.after({
-  "duration": 360295,
+  "duration": 557457,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11286342,
+  "duration": 8037211,
   "status": "passed"
 });
 formatter.scenario({
@@ -1282,7 +1282,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11002212,
+  "duration": 9040850,
   "status": "passed"
 });
 formatter.match({
@@ -1295,14 +1295,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 16198122,
+  "duration": 10566834,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 52738021,
+  "duration": 17678191,
   "status": "passed"
 });
 formatter.match({
@@ -1319,11 +1319,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhoto(String,String)"
 });
 formatter.result({
-  "duration": 18292907,
+  "duration": 16325602,
   "status": "passed"
 });
 formatter.after({
-  "duration": 826463,
+  "duration": 695201,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1396,7 +1396,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9737131,
+  "duration": 13620964,
   "status": "passed"
 });
 formatter.scenario({
@@ -1438,7 +1438,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10451238,
+  "duration": 14906032,
   "status": "passed"
 });
 formatter.match({
@@ -1451,14 +1451,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 19893975,
+  "duration": 19935568,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 23454785,
+  "duration": 28096479,
   "status": "passed"
 });
 formatter.match({
@@ -1475,15 +1475,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowADefaultPhoto(String,String)"
 });
 formatter.result({
-  "duration": 17573939,
+  "duration": 16530328,
   "status": "passed"
 });
 formatter.after({
-  "duration": 340308,
+  "duration": 9325520,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14274571,
+  "duration": 10232468,
   "status": "passed"
 });
 formatter.scenario({
@@ -1525,7 +1525,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12123068,
+  "duration": 14966531,
   "status": "passed"
 });
 formatter.match({
@@ -1538,14 +1538,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 19262515,
+  "duration": 17364352,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27973860,
+  "duration": 31103614,
   "status": "passed"
 });
 formatter.match({
@@ -1562,15 +1562,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowADefaultPhoto(String,String)"
 });
 formatter.result({
-  "duration": 19784861,
+  "duration": 16947879,
   "status": "passed"
 });
 formatter.after({
-  "duration": 479132,
+  "duration": 351112,
   "status": "passed"
 });
 formatter.before({
-  "duration": 21175802,
+  "duration": 18239970,
   "status": "passed"
 });
 formatter.scenario({
@@ -1612,7 +1612,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 19157182,
+  "duration": 13872683,
   "status": "passed"
 });
 formatter.match({
@@ -1625,14 +1625,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 18212421,
+  "duration": 18042808,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 23299217,
+  "duration": 23646546,
   "status": "passed"
 });
 formatter.match({
@@ -1649,11 +1649,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowADefaultPhoto(String,String)"
 });
 formatter.result({
-  "duration": 16724249,
+  "duration": 18815793,
   "status": "passed"
 });
 formatter.after({
-  "duration": 898846,
+  "duration": 809177,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1726,7 +1726,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9545370,
+  "duration": 26946454,
   "status": "passed"
 });
 formatter.scenario({
@@ -1768,7 +1768,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10317815,
+  "duration": 13243384,
   "status": "passed"
 });
 formatter.match({
@@ -1781,14 +1781,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 22120562,
+  "duration": 20040362,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 29070948,
+  "duration": 31587067,
   "status": "passed"
 });
 formatter.match({
@@ -1805,15 +1805,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShow(String,String)"
 });
 formatter.result({
-  "duration": 274689077,
+  "duration": 256633306,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1073861,
+  "duration": 1364474,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11853523,
+  "duration": 10135238,
   "status": "passed"
 });
 formatter.scenario({
@@ -1855,7 +1855,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11281481,
+  "duration": 11242049,
   "status": "passed"
 });
 formatter.match({
@@ -1868,14 +1868,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 15158832,
+  "duration": 23368899,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 29920638,
+  "duration": 28480541,
   "status": "passed"
 });
 formatter.match({
@@ -1892,7 +1892,7 @@ formatter.match({
   "location": "Stepdefs.theApplicationShow(String,String)"
 });
 formatter.result({
-  "duration": 262005851,
+  "duration": 271832650,
   "status": "passed"
 });
 formatter.after({
@@ -1900,7 +1900,7 @@ formatter.after({
   "status": "passed"
 });
 formatter.before({
-  "duration": 10341583,
+  "duration": 15266326,
   "status": "passed"
 });
 formatter.scenario({
@@ -1942,7 +1942,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10980605,
+  "duration": 14950326,
   "status": "passed"
 });
 formatter.match({
@@ -1955,14 +1955,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 18481967,
+  "duration": 18312894,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 31152229,
+  "duration": 31187880,
   "status": "passed"
 });
 formatter.match({
@@ -1979,11 +1979,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShow(String,String)"
 });
 formatter.result({
-  "duration": 301264434,
+  "duration": 251155967,
   "status": "passed"
 });
 formatter.after({
-  "duration": 890202,
+  "duration": 537470,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2056,7 +2056,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8659489,
+  "duration": 9831120,
   "status": "passed"
 });
 formatter.scenario({
@@ -2098,7 +2098,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 10541987,
+  "duration": 11115108,
   "status": "passed"
 });
 formatter.match({
@@ -2111,14 +2111,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 38978773,
+  "duration": 15102114,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 28295262,
+  "duration": 19531520,
   "status": "passed"
 });
 formatter.match({
@@ -2135,15 +2135,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationDonTShowShortBio(String,String)"
 });
 formatter.result({
-  "duration": 227778966,
+  "duration": 258643824,
   "status": "passed"
 });
 formatter.after({
-  "duration": 311139,
+  "duration": 285211,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7463009,
+  "duration": 9263400,
   "status": "passed"
 });
 formatter.scenario({
@@ -2185,7 +2185,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 17552331,
+  "duration": 11746028,
   "status": "passed"
 });
 formatter.match({
@@ -2198,14 +2198,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 21504766,
+  "duration": 14228117,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 33563014,
+  "duration": 26814652,
   "status": "passed"
 });
 formatter.match({
@@ -2222,15 +2222,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationDonTShowShortBio(String,String)"
 });
 formatter.result({
-  "duration": 226519826,
+  "duration": 303883725,
   "status": "passed"
 });
 formatter.after({
-  "duration": 329505,
+  "duration": 562318,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9014922,
+  "duration": 12891733,
   "status": "passed"
 });
 formatter.scenario({
@@ -2272,7 +2272,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 15142086,
+  "duration": 14715892,
   "status": "passed"
 });
 formatter.match({
@@ -2285,14 +2285,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 22882204,
+  "duration": 16052275,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 30937240,
+  "duration": 35822011,
   "status": "passed"
 });
 formatter.match({
@@ -2309,11 +2309,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationDonTShowShortBio(String,String)"
 });
 formatter.result({
-  "duration": 284339781,
+  "duration": 238765514,
   "status": "passed"
 });
 formatter.after({
-  "duration": 803235,
+  "duration": 1068459,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2386,7 +2386,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 14400431,
+  "duration": 15750320,
   "status": "passed"
 });
 formatter.scenario({
@@ -2428,7 +2428,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12497407,
+  "duration": 22383086,
   "status": "passed"
 });
 formatter.match({
@@ -2441,14 +2441,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 18861707,
+  "duration": 19468860,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 28511330,
+  "duration": 22653711,
   "status": "passed"
 });
 formatter.match({
@@ -2465,15 +2465,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWith(String,String)"
 });
 formatter.result({
-  "duration": 17626875,
+  "duration": 22576467,
   "status": "passed"
 });
 formatter.after({
-  "duration": 411070,
+  "duration": 760561,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12460676,
+  "duration": 15144247,
   "status": "passed"
 });
 formatter.scenario({
@@ -2515,7 +2515,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11190733,
+  "duration": 14389087,
   "status": "passed"
 });
 formatter.match({
@@ -2528,14 +2528,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 26410604,
+  "duration": 24731751,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 30815703,
+  "duration": 25919588,
   "status": "passed"
 });
 formatter.match({
@@ -2552,15 +2552,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWith(String,String)"
 });
 formatter.result({
-  "duration": 17620934,
+  "duration": 14704548,
   "status": "passed"
 });
 formatter.after({
-  "duration": 763802,
+  "duration": 706005,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12383431,
+  "duration": 10947655,
   "status": "passed"
 });
 formatter.scenario({
@@ -2602,7 +2602,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11385734,
+  "duration": 10526322,
   "status": "passed"
 });
 formatter.match({
@@ -2615,14 +2615,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 21516650,
+  "duration": 12156019,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 31914951,
+  "duration": 23878280,
   "status": "passed"
 });
 formatter.match({
@@ -2639,11 +2639,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWith(String,String)"
 });
 formatter.result({
-  "duration": 16284009,
+  "duration": 14923317,
   "status": "passed"
 });
 formatter.after({
-  "duration": 7561320,
+  "duration": 663871,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2716,7 +2716,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 9924571,
+  "duration": 11638535,
   "status": "passed"
 });
 formatter.scenario({
@@ -2758,7 +2758,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11565072,
+  "duration": 10628414,
   "status": "passed"
 });
 formatter.match({
@@ -2771,14 +2771,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 18096825,
+  "duration": 15410012,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27748608,
+  "duration": 31621638,
   "status": "passed"
 });
 formatter.match({
@@ -2795,15 +2795,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowThe(String,String)"
 });
 formatter.result({
-  "duration": 16644844,
+  "duration": 18667246,
   "status": "passed"
 });
 formatter.after({
-  "duration": 342469,
+  "duration": 330585,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12918200,
+  "duration": 10025042,
   "status": "passed"
 });
 formatter.scenario({
@@ -2845,7 +2845,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12201933,
+  "duration": 13010030,
   "status": "passed"
 });
 formatter.match({
@@ -2858,14 +2858,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 14889287,
+  "duration": 13960192,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 31625959,
+  "duration": 34009736,
   "status": "passed"
 });
 formatter.match({
@@ -2882,15 +2882,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowThe(String,String)"
 });
 formatter.result({
-  "duration": 11816791,
+  "duration": 17899122,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1094387,
+  "duration": 1070079,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9378457,
+  "duration": 12625428,
   "status": "passed"
 });
 formatter.scenario({
@@ -2932,7 +2932,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 9852187,
+  "duration": 8091229,
   "status": "passed"
 });
 formatter.match({
@@ -2945,14 +2945,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 16573001,
+  "duration": 16126820,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 33814194,
+  "duration": 24360653,
   "status": "passed"
 });
 formatter.match({
@@ -2969,11 +2969,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowThe(String,String)"
 });
 formatter.result({
-  "duration": 23337568,
+  "duration": 15346271,
   "status": "passed"
 });
 formatter.after({
-  "duration": 812958,
+  "duration": 1241854,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3046,7 +3046,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 14393409,
+  "duration": 9485411,
   "status": "passed"
 });
 formatter.scenario({
@@ -3088,7 +3088,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 9514581,
+  "duration": 11393297,
   "status": "passed"
 });
 formatter.match({
@@ -3101,14 +3101,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 16698861,
+  "duration": 15258224,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 24155388,
+  "duration": 25411286,
   "status": "passed"
 });
 formatter.match({
@@ -3125,15 +3125,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 17094807,
+  "duration": 15138305,
   "status": "passed"
 });
 formatter.after({
-  "duration": 312219,
+  "duration": 782708,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12876067,
+  "duration": 10771559,
   "status": "passed"
 });
 formatter.scenario({
@@ -3175,7 +3175,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12497407,
+  "duration": 19863726,
   "status": "passed"
 });
 formatter.match({
@@ -3188,14 +3188,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 17727348,
+  "duration": 20186748,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27149018,
+  "duration": 23920953,
   "status": "passed"
 });
 formatter.match({
@@ -3212,15 +3212,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 20101401,
+  "duration": 19829155,
   "status": "passed"
 });
 formatter.after({
-  "duration": 348411,
+  "duration": 737334,
   "status": "passed"
 });
 formatter.before({
-  "duration": 13654454,
+  "duration": 12509291,
   "status": "passed"
 });
 formatter.scenario({
@@ -3262,7 +3262,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 12457435,
+  "duration": 10893098,
   "status": "passed"
 });
 formatter.match({
@@ -3275,14 +3275,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 17428633,
+  "duration": 13657155,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27319172,
+  "duration": 21558244,
   "status": "passed"
 });
 formatter.match({
@@ -3299,11 +3299,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 28778716,
+  "duration": 16368816,
   "status": "passed"
 });
 formatter.after({
-  "duration": 359214,
+  "duration": 458065,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3376,7 +3376,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 11299307,
+  "duration": 7071925,
   "status": "passed"
 });
 formatter.scenario({
@@ -3418,7 +3418,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 17659286,
+  "duration": 11406801,
   "status": "passed"
 });
 formatter.match({
@@ -3431,14 +3431,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 21512869,
+  "duration": 33619192,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 27933887,
+  "duration": 33980027,
   "status": "passed"
 });
 formatter.match({
@@ -3455,15 +3455,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 26095684,
+  "duration": 19873989,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1475748,
+  "duration": 2475606,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10603566,
+  "duration": 10644619,
   "status": "passed"
 });
 formatter.scenario({
@@ -3505,7 +3505,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 11915102,
+  "duration": 15941000,
   "status": "passed"
 });
 formatter.match({
@@ -3518,14 +3518,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 20205114,
+  "duration": 23656270,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 31099832,
+  "duration": 38189583,
   "status": "passed"
 });
 formatter.match({
@@ -3542,15 +3542,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 17838083,
+  "duration": 33003396,
   "status": "passed"
 });
 formatter.after({
-  "duration": 5683684,
+  "duration": 337067,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11107006,
+  "duration": 6744581,
   "status": "passed"
 });
 formatter.scenario({
@@ -3592,7 +3592,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheMainPage()"
 });
 formatter.result({
-  "duration": 14707789,
+  "duration": 10109849,
   "status": "passed"
 });
 formatter.match({
@@ -3605,14 +3605,14 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 47506460,
+  "duration": 12525497,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.thePageIsLoaded()"
 });
 formatter.result({
-  "duration": 30020570,
+  "duration": 17423231,
   "status": "passed"
 });
 formatter.match({
@@ -3629,11 +3629,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheMemberLink(String,String)"
 });
 formatter.result({
-  "duration": 17601487,
+  "duration": 17502096,
   "status": "passed"
 });
 formatter.after({
-  "duration": 771365,
+  "duration": 826462,
   "status": "passed"
 });
 formatter.uri("userStory2.feature");
@@ -3709,7 +3709,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 13092136,
+  "duration": 20104101,
   "status": "passed"
 });
 formatter.scenario({
@@ -3755,7 +3755,7 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 12961954,
+  "duration": 12684847,
   "status": "passed"
 });
 formatter.match({
@@ -3768,7 +3768,7 @@ formatter.match({
   "location": "Stepdefs.theUserClickOnOfTheTeam(String)"
 });
 formatter.result({
-  "duration": 228442297,
+  "duration": 226435560,
   "status": "passed"
 });
 formatter.match({
@@ -3785,15 +3785,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationOpensANewPageWithAllInformationAndAboutThe(String,String)"
 });
 formatter.result({
-  "duration": 69100355,
+  "duration": 59092599,
   "status": "passed"
 });
 formatter.after({
-  "duration": 567720,
+  "duration": 619577,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14048240,
+  "duration": 13813265,
   "status": "passed"
 });
 formatter.scenario({
@@ -3839,7 +3839,7 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 11271758,
+  "duration": 10050970,
   "status": "passed"
 });
 formatter.match({
@@ -3852,7 +3852,7 @@ formatter.match({
   "location": "Stepdefs.theUserClickOnOfTheTeam(String)"
 });
 formatter.result({
-  "duration": 254574172,
+  "duration": 191760872,
   "status": "passed"
 });
 formatter.match({
@@ -3869,15 +3869,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationOpensANewPageWithAllInformationAndAboutThe(String,String)"
 });
 formatter.result({
-  "duration": 52350178,
+  "duration": 33737490,
   "status": "passed"
 });
 formatter.after({
-  "duration": 290072,
+  "duration": 783249,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11657441,
+  "duration": 7753081,
   "status": "passed"
 });
 formatter.scenario({
@@ -3923,7 +3923,7 @@ formatter.match({
   "location": "Stepdefs.exists(String)"
 });
 formatter.result({
-  "duration": 11023819,
+  "duration": 13953709,
   "status": "passed"
 });
 formatter.match({
@@ -3936,7 +3936,7 @@ formatter.match({
   "location": "Stepdefs.theUserClickOnOfTheTeam(String)"
 });
 formatter.result({
-  "duration": 284280362,
+  "duration": 203558757,
   "status": "passed"
 });
 formatter.match({
@@ -3953,11 +3953,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationOpensANewPageWithAllInformationAndAboutThe(String,String)"
 });
 formatter.result({
-  "duration": 38224694,
+  "duration": 34209599,
   "status": "passed"
 });
 formatter.after({
-  "duration": 982032,
+  "duration": 277648,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4030,7 +4030,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8510401,
+  "duration": 11036784,
   "status": "passed"
 });
 formatter.scenario({
@@ -4081,7 +4081,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 48187616,
+  "duration": 40960663,
   "status": "passed"
 });
 formatter.match({
@@ -4094,14 +4094,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 55184998,
+  "duration": 45444626,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 98801144,
+  "duration": 75234542,
   "status": "passed"
 });
 formatter.match({
@@ -4118,15 +4118,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowName(String,String)"
 });
 formatter.result({
-  "duration": 304306139,
+  "duration": 286705192,
   "status": "passed"
 });
 formatter.after({
-  "duration": 727071,
+  "duration": 321942,
   "status": "passed"
 });
 formatter.before({
-  "duration": 16303996,
+  "duration": 10768858,
   "status": "passed"
 });
 formatter.scenario({
@@ -4177,7 +4177,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 46492018,
+  "duration": 76337032,
   "status": "passed"
 });
 formatter.match({
@@ -4190,14 +4190,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 55653867,
+  "duration": 46556839,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 78897446,
+  "duration": 78834785,
   "status": "passed"
 });
 formatter.match({
@@ -4214,15 +4214,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowName(String,String)"
 });
 formatter.result({
-  "duration": 230574894,
+  "duration": 235055616,
   "status": "passed"
 });
 formatter.after({
-  "duration": 422414,
+  "duration": 629840,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7320404,
+  "duration": 9104050,
   "status": "passed"
 });
 formatter.scenario({
@@ -4273,7 +4273,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 35974880,
+  "duration": 28713895,
   "status": "passed"
 });
 formatter.match({
@@ -4286,14 +4286,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 40489093,
+  "duration": 52461994,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 52833631,
+  "duration": 63079064,
   "status": "passed"
 });
 formatter.match({
@@ -4310,11 +4310,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowName(String,String)"
 });
 formatter.result({
-  "duration": 226330767,
+  "duration": 224379127,
   "status": "passed"
 });
 formatter.after({
-  "duration": 527748,
+  "duration": 224172,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4342,7 +4342,7 @@ formatter.step({
 });
 formatter.step({
   "line": 33,
-  "name": "the application show \u003cdefault name\u003e",
+  "name": "the application show \"\u003cmembers\u003e\" default name \"\u003cdefault name\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -4387,7 +4387,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6339453,
+  "duration": 7055719,
   "status": "passed"
 });
 formatter.scenario({
@@ -4421,8 +4421,9 @@ formatter.step({
 });
 formatter.step({
   "line": 33,
-  "name": "the application show User",
+  "name": "the application show \"Miriam Pereira\" default name \"User\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -4437,7 +4438,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32812716,
+  "duration": 26425188,
   "status": "passed"
 });
 formatter.match({
@@ -4450,26 +4451,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 43866245,
+  "duration": 37833070,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 74327595,
+  "duration": 70549095,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 22
+    },
+    {
+      "val": "User",
+      "offset": 52
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowDefaultName(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 33364771,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 601211,
+  "duration": 240916,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11119970,
+  "duration": 7834647,
   "status": "passed"
 });
 formatter.scenario({
@@ -4503,8 +4517,9 @@ formatter.step({
 });
 formatter.step({
   "line": 33,
-  "name": "the application show User",
+  "name": "the application show \"Vítor Dias\" default name \"User\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -4519,7 +4534,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 34055111,
+  "duration": 27916602,
   "status": "passed"
 });
 formatter.match({
@@ -4532,26 +4547,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 32178014,
+  "duration": 29812603,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 52883327,
+  "duration": 51786779,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 22
+    },
+    {
+      "val": "User",
+      "offset": 48
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowDefaultName(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 23544994,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 359754,
+  "duration": 226332,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5825749,
+  "duration": 5174303,
   "status": "passed"
 });
 formatter.scenario({
@@ -4585,8 +4613,9 @@ formatter.step({
 });
 formatter.step({
   "line": 33,
-  "name": "the application show User",
+  "name": "the application show \"Pedro Jorge\" default name \"User\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -4601,7 +4630,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 30993958,
+  "duration": 29886607,
   "status": "passed"
 });
 formatter.match({
@@ -4614,22 +4643,35 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 34778400,
+  "duration": 50473082,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 91501806,
+  "duration": 51826212,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 22
+    },
+    {
+      "val": "User",
+      "offset": 49
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowDefaultName(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 24329323,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 293313,
+  "duration": 229033,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4702,7 +4744,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8073403,
+  "duration": 7462469,
   "status": "passed"
 });
 formatter.scenario({
@@ -4753,7 +4795,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32330884,
+  "duration": 25968203,
   "status": "passed"
 });
 formatter.match({
@@ -4766,14 +4808,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 29333471,
+  "duration": 30773028,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 54446043,
+  "duration": 56088705,
   "status": "passed"
 });
 formatter.match({
@@ -4790,15 +4832,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhotos(String,String)"
 });
 formatter.result({
-  "duration": 31870657,
+  "duration": 34479145,
   "status": "passed"
 });
 formatter.after({
-  "duration": 255501,
+  "duration": 254961,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6657073,
+  "duration": 10157385,
   "status": "passed"
 });
 formatter.scenario({
@@ -4849,7 +4891,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 28516733,
+  "duration": 38695184,
   "status": "passed"
 });
 formatter.match({
@@ -4862,14 +4904,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 37640768,
+  "duration": 34237148,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 143370151,
+  "duration": 73474123,
   "status": "passed"
 });
 formatter.match({
@@ -4886,15 +4928,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhotos(String,String)"
 });
 formatter.result({
-  "duration": 38623880,
+  "duration": 30372221,
   "status": "passed"
 });
 formatter.after({
-  "duration": 525046,
+  "duration": 273867,
   "status": "passed"
 });
 formatter.before({
-  "duration": 16621076,
+  "duration": 7872459,
   "status": "passed"
 });
 formatter.scenario({
@@ -4945,7 +4987,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32627438,
+  "duration": 39915971,
   "status": "passed"
 });
 formatter.match({
@@ -4958,14 +5000,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 40418870,
+  "duration": 37500864,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 91010251,
+  "duration": 74072633,
   "status": "passed"
 });
 formatter.match({
@@ -4982,11 +5024,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowPhotos(String,String)"
 });
 formatter.result({
-  "duration": 36880747,
+  "duration": 31060940,
   "status": "passed"
 });
 formatter.after({
-  "duration": 236595,
+  "duration": 229032,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5014,7 +5056,7 @@ formatter.step({
 });
 formatter.step({
   "line": 57,
-  "name": "the application show a \u003cdefault photo\u003e",
+  "name": "the application show a \"\u003cmembers\u003e\" with default photo \"\u003cdefault photo\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -5059,7 +5101,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 10312413,
+  "duration": 7470572,
   "status": "passed"
 });
 formatter.scenario({
@@ -5093,8 +5135,9 @@ formatter.step({
 });
 formatter.step({
   "line": 57,
-  "name": "the application show a default.jpg",
+  "name": "the application show a \"Miriam Pereira\" with default photo \"default.jpg\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -5109,7 +5152,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 29151974,
+  "duration": 26404662,
   "status": "passed"
 });
 formatter.match({
@@ -5122,26 +5165,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 41356609,
+  "duration": 89130454,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 63491215,
+  "duration": 55933675,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 24
+    },
+    {
+      "val": "default.jpg",
+      "offset": 60
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowAWithDefaultPhoto(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 38933939,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 266304,
+  "duration": 277108,
   "status": "passed"
 });
 formatter.before({
-  "duration": 12569790,
+  "duration": 8297574,
   "status": "passed"
 });
 formatter.scenario({
@@ -5175,8 +5231,9 @@ formatter.step({
 });
 formatter.step({
   "line": 57,
-  "name": "the application show a default.jpg",
+  "name": "the application show a \"Vítor Dias\" with default photo \"default.jpg\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -5191,7 +5248,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32138042,
+  "duration": 40235212,
   "status": "passed"
 });
 formatter.match({
@@ -5204,26 +5261,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 40629538,
+  "duration": 49828117,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 76160397,
+  "duration": 70479953,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 24
+    },
+    {
+      "val": "default.jpg",
+      "offset": 56
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowAWithDefaultPhoto(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 38863717,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 273327,
+  "duration": 247398,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11094042,
+  "duration": 7265847,
   "status": "passed"
 });
 formatter.scenario({
@@ -5257,8 +5327,9 @@ formatter.step({
 });
 formatter.step({
   "line": 57,
-  "name": "the application show a default.jpg",
+  "name": "the application show a \"Pedro Jorge\" with default photo \"default.jpg\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -5273,7 +5344,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 38091272,
+  "duration": 30065944,
   "status": "passed"
 });
 formatter.match({
@@ -5286,22 +5357,35 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 54338009,
+  "duration": 40079643,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 58812249,
+  "duration": 72886958,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 24
+    },
+    {
+      "val": "default.jpg",
+      "offset": 57
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowAWithDefaultPhoto(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 33074699,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 244698,
+  "duration": 290072,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5374,7 +5458,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 16662129,
+  "duration": 6958489,
   "status": "passed"
 });
 formatter.scenario({
@@ -5425,7 +5509,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 39146226,
+  "duration": 35511953,
   "status": "passed"
 });
 formatter.match({
@@ -5438,14 +5522,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 48056895,
+  "duration": 38372701,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 72142601,
+  "duration": 53785414,
   "status": "passed"
 });
 formatter.match({
@@ -5462,15 +5546,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowMembersShortBio(String,String)"
 });
 formatter.result({
-  "duration": 195330866,
+  "duration": 169444228,
   "status": "passed"
 });
 formatter.after({
-  "duration": 266844,
+  "duration": 248479,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5865722,
+  "duration": 8832344,
   "status": "passed"
 });
 formatter.scenario({
@@ -5521,7 +5605,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 25431813,
+  "duration": 24756059,
   "status": "passed"
 });
 formatter.match({
@@ -5534,14 +5618,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 39068982,
+  "duration": 29933062,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 47510782,
+  "duration": 67950871,
   "status": "passed"
 });
 formatter.match({
@@ -5558,15 +5642,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowMembersShortBio(String,String)"
 });
 formatter.result({
-  "duration": 180429155,
+  "duration": 165673831,
   "status": "passed"
 });
 formatter.after({
-  "duration": 275488,
+  "duration": 267925,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6762407,
+  "duration": 5998604,
   "status": "passed"
 });
 formatter.scenario({
@@ -5617,7 +5701,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 25941195,
+  "duration": 29197348,
   "status": "passed"
 });
 formatter.match({
@@ -5630,14 +5714,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 31137645,
+  "duration": 47095930,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 49751413,
+  "duration": 69192724,
   "status": "passed"
 });
 formatter.match({
@@ -5654,11 +5738,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowMembersShortBio(String,String)"
 });
 formatter.result({
-  "duration": 158660245,
+  "duration": 168899735,
   "status": "passed"
 });
 formatter.after({
-  "duration": 341928,
+  "duration": 255501,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5731,7 +5815,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 5432504,
+  "duration": 5092196,
   "status": "passed"
 });
 formatter.scenario({
@@ -5782,7 +5866,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32054855,
+  "duration": 23017246,
   "status": "passed"
 });
 formatter.match({
@@ -5795,26 +5879,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 34940452,
+  "duration": 28085675,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 62555638,
+  "duration": 45428961,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 22
+    },
+    {
+      "val": "The user don\u0027t have information.",
+      "offset": 57
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowShortBioMessage(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 458090256,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 252800,
+  "duration": 244158,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10383176,
+  "duration": 6057483,
   "status": "passed"
 });
 formatter.scenario({
@@ -5865,7 +5962,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 29423680,
+  "duration": 28330913,
   "status": "passed"
 });
 formatter.match({
@@ -5878,26 +5975,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 34096704,
+  "duration": 26904321,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 63848808,
+  "duration": 46227334,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 22
+    },
+    {
+      "val": "The user don\u0027t have information.",
+      "offset": 53
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowShortBioMessage(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 434732701,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 549895,
+  "duration": 273327,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11372230,
+  "duration": 7376042,
   "status": "passed"
 });
 formatter.scenario({
@@ -5948,7 +6058,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 28812747,
+  "duration": 25255177,
   "status": "passed"
 });
 formatter.match({
@@ -5961,22 +6071,35 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 29911995,
+  "duration": 30611517,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 46332668,
+  "duration": 54538953,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 22
+    },
+    {
+      "val": "The user don\u0027t have information.",
+      "offset": 54
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowShortBioMessage(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 459920897,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 160971,
+  "duration": 220930,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -6049,7 +6172,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8540111,
+  "duration": 8295953,
   "status": "passed"
 });
 formatter.scenario({
@@ -6100,7 +6223,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 22182141,
+  "duration": 34254974,
   "status": "passed"
 });
 formatter.match({
@@ -6113,14 +6236,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 29834211,
+  "duration": 47569660,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 47502679,
+  "duration": 59639792,
   "status": "passed"
 });
 formatter.match({
@@ -6137,15 +6260,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWithFacebookLink(String,String)"
 });
 formatter.result({
-  "duration": 28028957,
+  "duration": 25417229,
   "status": "passed"
 });
 formatter.after({
-  "duration": 223091,
+  "duration": 204185,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5112723,
+  "duration": 5450871,
   "status": "passed"
 });
 formatter.scenario({
@@ -6196,7 +6319,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 23738376,
+  "duration": 28516193,
   "status": "passed"
 });
 formatter.match({
@@ -6209,14 +6332,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 27080417,
+  "duration": 26963200,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 61093933,
+  "duration": 47255821,
   "status": "passed"
 });
 formatter.match({
@@ -6233,15 +6356,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWithFacebookLink(String,String)"
 });
 formatter.result({
-  "duration": 25162808,
+  "duration": 26795206,
   "status": "passed"
 });
 formatter.after({
-  "duration": 278728,
+  "duration": 294393,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5360662,
+  "duration": 5816566,
   "status": "passed"
 });
 formatter.scenario({
@@ -6292,7 +6415,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 28733881,
+  "duration": 23781049,
   "status": "passed"
 });
 formatter.match({
@@ -6305,14 +6428,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 29210853,
+  "duration": 27694051,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 48033668,
+  "duration": 45087573,
   "status": "passed"
 });
 formatter.match({
@@ -6329,11 +6452,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowFacebookIconWithFacebookLink(String,String)"
 });
 formatter.result({
-  "duration": 42046407,
+  "duration": 27658400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 211207,
+  "duration": 283050,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -6361,7 +6484,7 @@ formatter.step({
 });
 formatter.step({
   "line": 105,
-  "name": "the application show the disabled facebook icon",
+  "name": "the application show the \"\u003cmembers\u003e\" facebook default \"\u003cface link\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -6373,7 +6496,7 @@ formatter.examples({
     {
       "cells": [
         "members",
-        "facebook link"
+        "face link"
       ],
       "line": 108,
       "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-facebook-link;;1"
@@ -6406,7 +6529,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 7482455,
+  "duration": 8083126,
   "status": "passed"
 });
 formatter.scenario({
@@ -6440,7 +6563,11 @@ formatter.step({
 });
 formatter.step({
   "line": 105,
-  "name": "the application show the disabled facebook icon",
+  "name": "the application show the \"Miriam Pereira\" facebook default \"https://www.facebook.com/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -6453,7 +6580,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 28101340,
+  "duration": 24168352,
   "status": "passed"
 });
 formatter.match({
@@ -6466,26 +6593,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 27319172,
+  "duration": 25785625,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 54936519,
+  "duration": 43570231,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 26
+    },
+    {
+      "val": "https://www.facebook.com/",
+      "offset": 60
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheFacebookDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 24652886,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 250639,
+  "duration": 291152,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7197785,
+  "duration": 5703130,
   "status": "passed"
 });
 formatter.scenario({
@@ -6519,7 +6659,11 @@ formatter.step({
 });
 formatter.step({
   "line": 105,
-  "name": "the application show the disabled facebook icon",
+  "name": "the application show the \"Vítor Dias\" facebook default \"https://www.facebook.com/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -6532,7 +6676,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 22989698,
+  "duration": 26851384,
   "status": "passed"
 });
 formatter.match({
@@ -6545,26 +6689,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 34533162,
+  "duration": 30070806,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 55972568,
+  "duration": 44628427,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 26
+    },
+    {
+      "val": "https://www.facebook.com/",
+      "offset": 56
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheFacebookDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 30236638,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 229032,
+  "duration": 261443,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5341216,
+  "duration": 5010631,
   "status": "passed"
 });
 formatter.scenario({
@@ -6598,7 +6755,11 @@ formatter.step({
 });
 formatter.step({
   "line": 105,
-  "name": "the application show the disabled facebook icon",
+  "name": "the application show the \"Pedro Jorge\" facebook default \"https://www.facebook.com/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -6611,7 +6772,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 23042635,
+  "duration": 21916378,
   "status": "passed"
 });
 formatter.match({
@@ -6624,22 +6785,35 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 26377653,
+  "duration": 27895535,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 45421939,
+  "duration": 47312539,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 26
+    },
+    {
+      "val": "https://www.facebook.com/",
+      "offset": 57
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheFacebookDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 32285509,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 249559,
+  "duration": 244158,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -6712,7 +6886,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 5695028,
+  "duration": 4924203,
   "status": "passed"
 });
 formatter.scenario({
@@ -6763,7 +6937,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 24011162,
+  "duration": 22040077,
   "status": "passed"
 });
 formatter.match({
@@ -6776,14 +6950,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 28975338,
+  "duration": 28573991,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 53258207,
+  "duration": 43892713,
   "status": "passed"
 });
 formatter.match({
@@ -6800,15 +6974,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithLinkedinLink(String,String)"
 });
 formatter.result({
-  "duration": 24717706,
+  "duration": 25517160,
   "status": "passed"
 });
 formatter.after({
-  "duration": 243077,
+  "duration": 208507,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4622788,
+  "duration": 7137285,
   "status": "passed"
 });
 formatter.scenario({
@@ -6859,7 +7033,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 32117516,
+  "duration": 22531633,
   "status": "passed"
 });
 formatter.match({
@@ -6872,14 +7046,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 27607084,
+  "duration": 26079479,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 45857317,
+  "duration": 44778054,
   "status": "passed"
 });
 formatter.match({
@@ -6896,15 +7070,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithLinkedinLink(String,String)"
 });
 formatter.result({
-  "duration": 24443299,
+  "duration": 27577374,
   "status": "passed"
 });
 formatter.after({
-  "duration": 216609,
+  "duration": 270085,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5040880,
+  "duration": 4771334,
   "status": "passed"
 });
 formatter.scenario({
@@ -6955,7 +7129,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 22280993,
+  "duration": 22353916,
   "status": "passed"
 });
 formatter.match({
@@ -6968,14 +7142,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 41726626,
+  "duration": 34339241,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 56977827,
+  "duration": 46847451,
   "status": "passed"
 });
 formatter.match({
@@ -6992,11 +7166,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowLinkedinIconWithLinkedinLink(String,String)"
 });
 formatter.result({
-  "duration": 27247330,
+  "duration": 32480511,
   "status": "passed"
 });
 formatter.after({
-  "duration": 294934,
+  "duration": 265224,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -7024,7 +7198,7 @@ formatter.step({
 });
 formatter.step({
   "line": 129,
-  "name": "the application show the disabled linkedin icon",
+  "name": "the application show the \"\u003cmembers\u003e\" linkedin default \"\u003clinkedin link\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -7069,7 +7243,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 7648288,
+  "duration": 5696648,
   "status": "passed"
 });
 formatter.scenario({
@@ -7103,7 +7277,11 @@ formatter.step({
 });
 formatter.step({
   "line": 129,
-  "name": "the application show the disabled linkedin icon",
+  "name": "the application show the \"Miriam Pereira\" linkedin default \"https://www.linkedin.com/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -7116,7 +7294,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 24895963,
+  "duration": 22104357,
   "status": "passed"
 });
 formatter.match({
@@ -7129,26 +7307,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 27204656,
+  "duration": 25886097,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 48390181,
+  "duration": 43666922,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 26
+    },
+    {
+      "val": "https://www.linkedin.com/",
+      "offset": 60
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheLinkedinDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 25009939,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 279809,
+  "duration": 237675,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5682604,
+  "duration": 4776196,
   "status": "passed"
 });
 formatter.scenario({
@@ -7182,7 +7373,11 @@ formatter.step({
 });
 formatter.step({
   "line": 129,
-  "name": "the application show the disabled linkedin icon",
+  "name": "the application show the \"Vítor Dias\" linkedin default \"https://www.linkedin.com/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -7195,7 +7390,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 27105804,
+  "duration": 22762286,
   "status": "passed"
 });
 formatter.match({
@@ -7208,26 +7403,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 27369408,
+  "duration": 35708035,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 46835028,
+  "duration": 76404014,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 26
+    },
+    {
+      "val": "https://www.linkedin.com/",
+      "offset": 56
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheLinkedinDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 28528616,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 260362,
+  "duration": 247398,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9175353,
+  "duration": 5684224,
   "status": "passed"
 });
 formatter.scenario({
@@ -7261,7 +7469,11 @@ formatter.step({
 });
 formatter.step({
   "line": 129,
-  "name": "the application show the disabled linkedin icon",
+  "name": "the application show the \"Pedro Jorge\" linkedin default \"https://www.linkedin.com/\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -7274,7 +7486,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 28237463,
+  "duration": 21233600,
   "status": "passed"
 });
 formatter.match({
@@ -7287,22 +7499,35 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 32129399,
+  "duration": 28366025,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 53232819,
+  "duration": 45764947,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 26
+    },
+    {
+      "val": "https://www.linkedin.com/",
+      "offset": 57
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheLinkedinDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 24192119,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 251180,
+  "duration": 250640,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -7375,7 +7600,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6009408,
+  "duration": 5119205,
   "status": "passed"
 });
 formatter.scenario({
@@ -7426,7 +7651,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 25261659,
+  "duration": 22226976,
   "status": "passed"
 });
 formatter.match({
@@ -7439,14 +7664,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 29214094,
+  "duration": 30155073,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 48609491,
+  "duration": 46325106,
   "status": "passed"
 });
 formatter.match({
@@ -7463,15 +7688,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheProjects(String,String)"
 });
 formatter.result({
-  "duration": 79405,
+  "duration": 94530,
   "status": "passed"
 });
 formatter.after({
-  "duration": 261983,
+  "duration": 388923,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7429519,
+  "duration": 4758370,
   "status": "passed"
 });
 formatter.scenario({
@@ -7522,7 +7747,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 29346436,
+  "duration": 40493415,
   "status": "passed"
 });
 formatter.match({
@@ -7535,14 +7760,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 37015250,
+  "duration": 30757364,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 79976167,
+  "duration": 49453779,
   "status": "passed"
 });
 formatter.match({
@@ -7559,15 +7784,15 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheProjects(String,String)"
 });
 formatter.result({
-  "duration": 80486,
+  "duration": 77785,
   "status": "passed"
 });
 formatter.after({
-  "duration": 205265,
+  "duration": 268465,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4947971,
+  "duration": 6060724,
   "status": "passed"
 });
 formatter.scenario({
@@ -7618,7 +7843,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 23030211,
+  "duration": 22054121,
   "status": "passed"
 });
 formatter.match({
@@ -7631,14 +7856,14 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 27420184,
+  "duration": 26352265,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 52923840,
+  "duration": 45280954,
   "status": "passed"
 });
 formatter.match({
@@ -7655,11 +7880,11 @@ formatter.match({
   "location": "Stepdefs.theApplicationShowTheProjects(String,String)"
 });
 formatter.result({
-  "duration": 207966,
+  "duration": 77244,
   "status": "passed"
 });
 formatter.after({
-  "duration": 306278,
+  "duration": 263064,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -7687,7 +7912,7 @@ formatter.step({
 });
 formatter.step({
   "line": 153,
-  "name": "the application don\u0027t show the projects section",
+  "name": "the application show the \"\u003cmembers\u003e\" projects default \"\u003cmsg projects\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -7732,7 +7957,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 5229400,
+  "duration": 7982654,
   "status": "passed"
 });
 formatter.scenario({
@@ -7766,7 +7991,11 @@ formatter.step({
 });
 formatter.step({
   "line": 153,
-  "name": "the application don\u0027t show the projects section",
+  "name": "the application show the \"Miriam Pereira\" projects default \"The user don\u0027t have information.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -7779,7 +8008,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 23485575,
+  "duration": 24109473,
   "status": "passed"
 });
 formatter.match({
@@ -7792,26 +8021,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 26974002,
+  "duration": 25975226,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 46023690,
+  "duration": 52011490,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 26
+    },
+    {
+      "val": "The user don\u0027t have information.",
+      "offset": 60
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheProjectsDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 414336907,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 210127,
+  "duration": 269546,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5884628,
+  "duration": 4825892,
   "status": "passed"
 });
 formatter.scenario({
@@ -7845,7 +8087,11 @@ formatter.step({
 });
 formatter.step({
   "line": 153,
-  "name": "the application don\u0027t show the projects section",
+  "name": "the application show the \"Vítor Dias\" projects default \"The user don\u0027t have information.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -7858,7 +8104,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 23696242,
+  "duration": 22372822,
   "status": "passed"
 });
 formatter.match({
@@ -7871,26 +8117,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 29307543,
+  "duration": 26901620,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 52234582,
+  "duration": 42596842,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 26
+    },
+    {
+      "val": "The user don\u0027t have information.",
+      "offset": 56
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheProjectsDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 420313904,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 252260,
+  "duration": 256041,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5554584,
+  "duration": 6772130,
   "status": "passed"
 });
 formatter.scenario({
@@ -7924,7 +8183,11 @@ formatter.step({
 });
 formatter.step({
   "line": 153,
-  "name": "the application don\u0027t show the projects section",
+  "name": "the application show the \"Pedro Jorge\" projects default \"The user don\u0027t have information.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
@@ -7937,7 +8200,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 27959275,
+  "duration": 30758444,
   "status": "passed"
 });
 formatter.match({
@@ -7950,22 +8213,35 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 35764213,
+  "duration": 27332136,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 52296161,
+  "duration": 57442915,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 26
+    },
+    {
+      "val": "The user don\u0027t have information.",
+      "offset": 57
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheProjectsDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 427958951,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 238215,
+  "duration": 260362,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -7993,7 +8269,7 @@ formatter.step({
 });
 formatter.step({
   "line": 165,
-  "name": "the application show the \u003cmember\u003e\u0027s \u003ctags\u003e",
+  "name": "the application show the \"\u003cmembers\u003e\" tags \"\u003ctags\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -8038,7 +8314,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 7624520,
+  "duration": 5456272,
   "status": "passed"
 });
 formatter.scenario({
@@ -8072,8 +8348,9 @@ formatter.step({
 });
 formatter.step({
   "line": 165,
-  "name": "the application show the \u003cmember\u003e\u0027s #PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP",
+  "name": "the application show the \"Miriam Pereira\" tags \"#PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -8088,7 +8365,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 23180379,
+  "duration": 21812124,
   "status": "passed"
 });
 formatter.match({
@@ -8101,26 +8378,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 28888910,
+  "duration": 26095684,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 50010696,
+  "duration": 44270293,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 26
+    },
+    {
+      "val": "#PHP, #LARAVEL, #IOS, #SWIFT, #JS, #CSS, #HTML, #ANGULAR, #BOOTSTRAP",
+      "offset": 48
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheTags(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 77785,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 284671,
+  "duration": 256581,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6720814,
+  "duration": 4697871,
   "status": "passed"
 });
 formatter.scenario({
@@ -8154,8 +8444,9 @@ formatter.step({
 });
 formatter.step({
   "line": 165,
-  "name": "the application show the \u003cmember\u003e\u0027s #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL",
+  "name": "the application show the \"Vítor Dias\" tags \"#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -8170,7 +8461,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 28810585,
+  "duration": 28157518,
   "status": "passed"
 });
 formatter.match({
@@ -8183,26 +8474,39 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 28391413,
+  "duration": 27418564,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 46207348,
+  "duration": 42980904,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 26
+    },
+    {
+      "val": "#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL",
+      "offset": 44
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheTags(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 70222,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 258742,
+  "duration": 218770,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5216436,
+  "duration": 4823732,
   "status": "passed"
 });
 formatter.scenario({
@@ -8236,8 +8540,9 @@ formatter.step({
 });
 formatter.step({
   "line": 165,
-  "name": "the application show the \u003cmember\u003e\u0027s #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS",
+  "name": "the application show the \"Pedro Jorge\" tags \"#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS\"",
   "matchedColumns": [
+    0,
     1
   ],
   "keyword": "Then "
@@ -8252,7 +8557,7 @@ formatter.match({
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 24011702,
+  "duration": 21536637,
   "status": "passed"
 });
 formatter.match({
@@ -8265,35 +8570,44 @@ formatter.match({
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 27305668,
+  "duration": 28499987,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 49617451,
+  "duration": 45597494,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 26
+    },
+    {
+      "val": "#PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS",
+      "offset": 45
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheTags(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 103713,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 232274,
+  "duration": 282510,
   "status": "passed"
 });
-formatter.before({
-  "duration": 6070987,
-  "status": "passed"
-});
-formatter.scenario({
+formatter.scenarioOutline({
   "line": 173,
   "name": "An member don\u0027t have tags",
   "description": "",
   "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags",
-  "type": "scenario",
-  "keyword": "Scenario"
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
 });
 formatter.step({
   "line": 174,
@@ -8312,48 +8626,336 @@ formatter.step({
 });
 formatter.step({
   "line": 177,
-  "name": "the application don\u0027t show the tags section",
+  "name": "the application show the \"\u003cmembers\u003e\" tags default \"\u003cmsg tags\u003e\"",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 179,
+  "name": "",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;",
+  "rows": [
+    {
+      "cells": [
+        "members",
+        "msg tags"
+      ],
+      "line": 180,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;;1"
+    },
+    {
+      "cells": [
+        "Miriam Pereira",
+        "The user don\u0027t have tags."
+      ],
+      "line": 181,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;;2"
+    },
+    {
+      "cells": [
+        "Vítor Dias",
+        "The user don\u0027t have tags."
+      ],
+      "line": 182,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;;3"
+    },
+    {
+      "cells": [
+        "Pedro Jorge",
+        "The user don\u0027t have tags."
+      ],
+      "line": 183,
+      "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;;4"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.before({
+  "duration": 6955789,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 181,
+  "name": "An member don\u0027t have tags",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 174,
+  "name": "that I\u0027m in the detailed page of \"Miriam Pereira\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 175,
+  "name": "exists \"Miriam Pereira\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 176,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 177,
+  "name": "the application show the \"Miriam Pereira\" tags default \"The user don\u0027t have tags.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
   "keyword": "Then "
 });
 formatter.match({
   "arguments": [
     {
-      "val": "\u003cmembers\u003e",
+      "val": "Miriam Pereira",
       "offset": 34
     }
   ],
   "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
 });
 formatter.result({
-  "duration": 23444522,
+  "duration": 23045336,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "\u003cmembers\u003e",
+      "val": "Miriam Pereira",
       "offset": 8
     }
   ],
   "location": "Stepdefs.existsOnDetailedPage(String)"
 });
 formatter.result({
-  "duration": 34828096,
+  "duration": 28840295,
   "status": "passed"
 });
 formatter.match({
   "location": "Stepdefs.theDetailedPageIsLoaded()"
 });
 formatter.result({
-  "duration": 65064734,
+  "duration": 56060615,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Miriam Pereira",
+      "offset": 26
+    },
+    {
+      "val": "The user don\u0027t have tags.",
+      "offset": 56
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheTagsDefault(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 446727750,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 258742,
+  "duration": 294934,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 7604534,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 182,
+  "name": "An member don\u0027t have tags",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 174,
+  "name": "that I\u0027m in the detailed page of \"Vítor Dias\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 175,
+  "name": "exists \"Vítor Dias\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 176,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 177,
+  "name": "the application show the \"Vítor Dias\" tags default \"The user don\u0027t have tags.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 34826476,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 28894853,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 48329142,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Vítor Dias",
+      "offset": 26
+    },
+    {
+      "val": "The user don\u0027t have tags.",
+      "offset": 52
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheTagsDefault(String,String)"
+});
+formatter.result({
+  "duration": 468004024,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 300876,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 5751205,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 183,
+  "name": "An member don\u0027t have tags",
+  "description": "",
+  "id": "user-views-the-detailed-information-of-the-member-of-the-team-(pedro,-vítor-and-miriam);an-member-don\u0027t-have-tags;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 174,
+  "name": "that I\u0027m in the detailed page of \"Pedro Jorge\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 175,
+  "name": "exists \"Pedro Jorge\" on detailed page",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "And "
+});
+formatter.step({
+  "line": 176,
+  "name": "the detailed page is loaded",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 177,
+  "name": "the application show the \"Pedro Jorge\" tags default \"The user don\u0027t have tags.\"",
+  "matchedColumns": [
+    0,
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 34
+    }
+  ],
+  "location": "Stepdefs.thatIMInTheDetailedPageOf(String)"
+});
+formatter.result({
+  "duration": 22469512,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 8
+    }
+  ],
+  "location": "Stepdefs.existsOnDetailedPage(String)"
+});
+formatter.result({
+  "duration": 26178870,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Stepdefs.theDetailedPageIsLoaded()"
+});
+formatter.result({
+  "duration": 45978855,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Pedro Jorge",
+      "offset": 26
+    },
+    {
+      "val": "The user don\u0027t have tags.",
+      "offset": 53
+    }
+  ],
+  "location": "Stepdefs.theApplicationShowTheTagsDefault(String,String)"
+});
+formatter.result({
+  "duration": 406065802,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 243617,
   "status": "passed"
 });
 formatter.uri("userStory3.feature");
@@ -8365,7 +8967,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6314065,
+  "duration": 5445469,
   "status": "passed"
 });
 formatter.scenario({
@@ -8404,11 +9006,11 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 287911,
+  "duration": 243077,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6752143,
+  "duration": 6466933,
   "status": "passed"
 });
 formatter.scenario({
@@ -8447,11 +9049,11 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 291153,
+  "duration": 287911,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5906235,
+  "duration": 8604931,
   "status": "passed"
 });
 formatter.scenario({
@@ -8490,11 +9092,11 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 268465,
+  "duration": 305737,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6078010,
+  "duration": 6776451,
   "status": "passed"
 });
 formatter.scenario({
@@ -8533,7 +9135,7 @@ formatter.result({
   "status": "undefined"
 });
 formatter.after({
-  "duration": 273867,
+  "duration": 276568,
   "status": "passed"
 });
 });
