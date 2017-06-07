@@ -32,6 +32,10 @@ public class Stepdefs {
     private String baseUrl = "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/index.html";
     private String testNoUsersUrl = "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/indexWithOutMembers.html";
     private String otherTestsUrl = "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/indexMembersWithOutInfo.html";
+    private String[] personalPages = {"file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/pedro.html",
+            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/miriam.html",
+            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/vitor.html"};
+
     @Before
     public void setUp() {
         driver = new HtmlUnitDriver();
@@ -250,4 +254,96 @@ public class Stepdefs {
             }
         }
     }
+
+    @When("^the user click on \"([^\"]*)\" of the team$")
+    public void theUserClickOnOfTheTeam(String member) throws Throwable {
+        driver.get(baseUrl);
+        if(member.equals("Pedro Jorge")) {
+            driver.findElement(By.xpath("//div[@id='speakers']/div")).click();
+        }
+        if(member.equals("Miriam Pereira")) {
+            driver.findElement(By.xpath("//div[@id='speakers']/div[2]")).click();
+        }
+        if(member.equals("Vítor Dias")) {
+            driver.findElement(By.xpath("//div[@id='speakers']/div[3]")).click();
+        }
+    }
+
+    // ------------ implementation tests to US2
+    @Then("^the application opens a new page with all information and \"([^\"]*)\" about the \"([^\"]*)\"$")
+    public void theApplicationOpensANewPageWithAllInformationAndAboutThe(String name, String member) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++){
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro")) {
+                assertEquals(name, driver.getTitle());
+            }
+            if(member.equals("Miriam Pereira") && personalPages[i].contains("miriam")) {
+                assertEquals(name, driver.getTitle());
+            }
+            if(member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                assertEquals(name, driver.getTitle());
+            }
+        }
+    }
+
+    @Given("^that I'm in the detailed page of \"([^\"]*)\"$")
+    public void thatIMInTheDetailedPageOf(String member) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++){
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro")) {
+                assertEquals("Pedro Jorge", driver.getTitle());
+            }
+            if(member.equals("Miriam Pereira") && personalPages[i].contains("miriam")) {
+                assertEquals("Miriam Pereira", driver.getTitle());
+            }
+            if(member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                assertEquals("Vítor Dias", driver.getTitle());
+            }
+        }
+    }
+
+    /////////////////
+
+    @And("^some \"([^\"]*)\" of team have name \"([^\"]*)\"$")
+    public void someOfTeamHaveName(String member, String name) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++){
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro") ||
+                    member.equals("Miriam Pereira") && personalPages[i].contains("miriam") ||
+                    member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                assertEquals(name, driver.findElement(By.xpath("//section[@id='about']/div[2]/div/ul/li/span")).getText());
+            }
+        }
+    }
+
+    @And("^exists \"([^\"]*)\" on detailed page$")
+    public void existsOnDetailedPage(String member) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++) {
+            driver.get(personalPages[i]);
+            driver.findElement(By.xpath("//section[@id='intro']/div[2]/div/div"));
+        }
+    }
+    ////////////////
+
+    @When("^the detailed page is loaded$")
+    public void theDetailedPageIsLoaded() throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++) {
+            driver.get(personalPages[i]);
+            driver.navigate().refresh();
+        }
+    }
+
+    @Then("^the application show \"([^\"]*)\" name \"([^\"]*)\"$")
+    public void theApplicationShowName(String member, String name) throws Throwable {
+        for(int i = 0; i <= personalPages.length -1; i++){
+            driver.get(personalPages[i]);
+            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro") ||
+                    member.equals("Miriam Pereira") && personalPages[i].contains("miriam") ||
+                    member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
+                assertEquals(name, driver.findElement(By.xpath("//section[@id='about']/div[2]/div/ul/li/span")).getText());
+            }
+        }
+    }
+
+
 }
