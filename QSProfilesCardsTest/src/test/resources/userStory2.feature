@@ -30,7 +30,7 @@ Scenario Outline: An member don't have name
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show <default name>
+Then the application show "<members>" default name "<default name>"
 
 Examples:
 |members         | default name	|
@@ -54,7 +54,7 @@ Scenario Outline: An member don't have photo
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show a <default photo>
+Then the application show a "<members>" with default photo "<default photo>"
 
 Examples:
 |members        | default photo	|
@@ -150,7 +150,7 @@ Scenario Outline: An member don't have projects
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the "<members>" projects "<msg projects>"
+Then the application show the "<members>" projects default "<msg projects>"
 
 Examples:
 |members        | msg projects       			    |
@@ -174,7 +174,7 @@ Scenario Outline: An member don't have tags
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the "<members>" tags "<msg tags>"
+Then the application show the "<members>" tags default "<msg tags>"
 
 Examples:
 |members        | msg tags       			|

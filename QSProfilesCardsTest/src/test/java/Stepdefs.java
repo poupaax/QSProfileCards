@@ -35,6 +35,9 @@ public class Stepdefs {
     private String[] personalPages = {"file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/pedro.html",
             "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/miriam.html",
             "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/vitor.html"};
+    private String[] testNoInfo = {"file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/pedroWithOutInfo.html",
+            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/miriamWithOutInfo.html",
+            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/vitorWithOutInfo.html"};
 
     @Before
     public void setUp() {
@@ -150,7 +153,6 @@ public class Stepdefs {
         if(member.equals("Vítor Dias")) {
             assertEquals(msg, driver.findElement(By.xpath("//div[@id='speakers']/div[3]/p")).getText());
         }
-
     }
 
     @Then("^the application show facebook icon with member \"([^\"]*)\" link \"([^\"]*)\"$")
@@ -302,20 +304,6 @@ public class Stepdefs {
         }
     }
 
-    /////////////////
-
-    /*@And("^some \"([^\"]*)\" of team have name \"([^\"]*)\"$")
-    public void someOfTeamHaveName(String member, String name) throws Throwable {
-        for(int i = 0; i <= personalPages.length -1; i++){
-            driver.get(personalPages[i]);
-            if(member.equals("Pedro Jorge") && personalPages[i].contains("pedro") ||
-                    member.equals("Miriam Pereira") && personalPages[i].contains("miriam") ||
-                    member.equals("Vítor Dias") && personalPages[i].contains("vitor")) {
-                assertEquals(name, driver.findElement(By.xpath("//section[@id='about']/div[2]/div/ul/li/span")).getText());
-            }
-        }
-    }*/
-
     @And("^exists \"([^\"]*)\" on detailed page$")
     public void existsOnDetailedPage(String member) throws Throwable {
         for(int i = 0; i <= personalPages.length -1; i++) {
@@ -323,7 +311,6 @@ public class Stepdefs {
             driver.findElement(By.xpath("//section[@id='intro']/div[2]/div/div"));
         }
     }
-    ////////////////
 
     @When("^the detailed page is loaded$")
     public void theDetailedPageIsLoaded() throws Throwable {
@@ -467,8 +454,110 @@ public class Stepdefs {
     }
 
     @Then("^the application show the \"([^\"]*)\" tags \"([^\"]*)\"$")
-    public void theApplicationShowTheTags(String arg0, String arg1) throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
+    public void theApplicationShowTheTags(String member, String tags) throws Throwable {
+       
+    }
+
+    @Then("^the application show \"([^\"]*)\" default name \"([^\"]*)\"$")
+    public void theApplicationShowDefaultName(String member, String defaultName) throws Throwable {
+        for(int i = 0; i <= testNoInfo.length -1; i++) {
+            driver.get(testNoInfo[i]);
+            if(member.equals("Pedro Jorge")) {
+                assertEquals(defaultName,  driver.getTitle());
+            }
+            if(member.equals("Miriam Pereira")) {
+                assertEquals(defaultName,  driver.getTitle());
+            }
+            if(member.equals("Vítor Dias")) {
+                assertEquals(defaultName,  driver.getTitle());
+            }
+        }
+    }
+
+    @Then("^the application show a \"([^\"]*)\" with default photo \"([^\"]*)\"$")
+    public void theApplicationShowAWithDefaultPhoto(String member, String defaultPhoto) throws Throwable {
+        for(int i = 0; i <= testNoInfo.length -1; i++) {
+            driver.get(testNoInfo[i]);
+            if (member.equals("Pedro Jorge") || member.equals("Miriam Pereira") || member.equals("Vítor Dias")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='about']/div/div/div/img[contains(@src,'img/default.jpg')]"));
+                if (href.toString().contains(defaultPhoto)) {
+                    assertEquals(true, true);
+                }
+            }
+        }
+    }
+
+    @Then("^the application show \"([^\"]*)\" short bio message \"([^\"]*)\"$")
+    public void theApplicationShowShortBioMessage(String member, String msg) throws Throwable {
+        for(int i = 0; i <= testNoInfo.length -1; i++) {
+            driver.get(testNoInfo[i]);
+            if(member.equals("Pedro Jorge")) {
+                assertEquals(msg, driver.findElement(By.xpath("//section[@id='intro']/div[2]/div/div/p/span")).getText());
+            }
+            if(member.equals("Miriam Pereira")) {
+                assertEquals(msg, driver.findElement(By.xpath("//section[@id='intro']/div[2]/div/div/p/span")).getText());
+            }
+            if(member.equals("Vítor Dias")) {
+                assertEquals(msg, driver.findElement(By.xpath("//section[@id='intro']/div[2]/div/div/p/span")).getText());
+            }
+        }
+    }
+
+    @Then("^the application show the \"([^\"]*)\" facebook default \"([^\"]*)\"$")
+    public void theApplicationShowTheFacebookDefault(String member, String linkdefault) throws Throwable {
+        for(int i = 0; i <= testNoInfo.length -1; i++) {
+            driver.get(testNoInfo[i]);
+            if (member.equals("Pedro Jorge") || member.equals("Miriam Pereira") || member.equals("Vítor Dias")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li/a[contains(@href,'https://www.facebook.com/')]"));
+                if (href.toString().contains(linkdefault)) {
+                    assertEquals(true, true);
+                }
+            }
+        }
+    }
+
+    @Then("^the application show the \"([^\"]*)\" linkedin default \"([^\"]*)\"$")
+    public void theApplicationShowTheLinkedinDefault(String member, String linkdefault) throws Throwable {
+        for(int i = 0; i <= testNoInfo.length -1; i++) {
+            driver.get(testNoInfo[i]);
+            if (member.equals("Pedro Jorge") || member.equals("Miriam Pereira") || member.equals("Vítor Dias")) {
+                WebElement href = driver.findElement(By.xpath("//section[@id='intro']/ul/li[2]/a[contains(@href,'https://www.linkedin.com/')]"));
+                if (href.toString().contains(linkdefault)) {
+                    assertEquals(true, true);
+                }
+            }
+        }
+    }
+
+    @Then("^the application show the \"([^\"]*)\" projects default \"([^\"]*)\"$")
+    public void theApplicationShowTheProjectsDefault(String member, String msg) throws Throwable {
+        for(int i = 0; i <= testNoInfo.length -1; i++) {
+            driver.get(testNoInfo[i]);
+            if (member.equals("Pedro Jorge")) {
+                assertEquals(msg, driver.findElement(By.xpath("//section[@id='portfolio']/div[2]/div/p")).getText());
+            }
+            if (member.equals("Miriam Pereira")) {
+                assertEquals(msg, driver.findElement(By.xpath("//section[@id='portfolio']/div[2]/div/p")).getText());
+            }
+            if (member.equals("Vítor Dias")) {
+                assertEquals(msg, driver.findElement(By.xpath("//section[@id='portfolio']/div[2]/div/p")).getText());
+            }
+        }
+    }
+
+    @Then("^the application show the \"([^\"]*)\" tags default \"([^\"]*)\"$")
+    public void theApplicationShowTheTagsDefault(String member, String msgTags) throws Throwable {
+        for(int i = 0; i <= testNoInfo.length -1; i++) {
+            driver.get(testNoInfo[i]);
+            if (member.equals("Pedro Jorge")) {
+                assertEquals(msgTags, driver.findElement(By.xpath("//section[@id='about']/div[2]/div[2]/ul/p")).getText());
+            }
+            if (member.equals("Miriam Pereira")) {
+                assertEquals(msgTags, driver.findElement(By.xpath("//section[@id='about']/div[2]/div[2]/ul/p")).getText());
+            }
+            if (member.equals("Vítor Dias")) {
+                assertEquals(msgTags, driver.findElement(By.xpath("//section[@id='about']/div[2]/div[2]/ul/p")).getText());
+            }
+        }
     }
 }
