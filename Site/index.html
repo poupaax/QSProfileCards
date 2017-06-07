@@ -40,32 +40,36 @@
         <div class="row me-row content-ct speaker" id="speakers">
           <h2 class="row-title">Our Team</h2>
           <br>
-          <input type="text" name="search" placeholder="Search...">
+          <input id="searchText" placeholder="Search...">
+          <input type="button" id="search" value="Search">
           <br>
-          <div class="col-md-4 col-sm-6 feature" style="cursor: pointer;" onclick="window.location='pedro.html';">
-			  <img src="img/pedro.jpg" class="speaker-img">
-			  <h3 id="speakerPedro">Pedro Jorge</h3>
-			  <p>23 years old. Master's student.</p>
-				<ul class="speaker-social">
-				  <li><a href="https://www.facebook.com/pedrombjorge" target="_blank"><span class="ti-facebook"></span></a></li>
-				  <li><a href="https://www.linkedin.com/in/pedrombjorge/" target="_blank"><span class="ti-linkedin"></span></a></li>
-				</ul>
+          <div id='pedro' class="col-md-4 col-sm-6 feature" style="cursor: pointer;" onclick="window.location='pedro.html';">
+    			  <img src="img/pedro.jpg" class="speaker-img">
+    			  <h3 id="speakerPedro">Pedro Jorge</h3>
+    			  <p>23 years old. Master's student.</p>
+            <p>TAGS: <div id="tagsPedro">TEAMWORK, MICROSOFT OFFICE, LARAVEL, HTML5, PHP, CSS, ANGULARJS</div></p>
+            <ul class="speaker-social">
+              <li><a href="https://www.facebook.com/pedrombjorge" target="_blank"><span class="ti-facebook"></span></a></li>
+              <li><a href="https://www.linkedin.com/in/pedrombjorge/" target="_blank"><span class="ti-linkedin"></span></a></li>
+            </ul>
           </div>
 
-          <div class="col-md-4 col-sm-6 feature" style="cursor: pointer;" onclick="window.location='miriam.html';">
+          <div id='miriam' class="col-md-4 col-sm-6 feature" style="cursor: pointer;" onclick="window.location='miriam.html';">
             <img src="img/miriam.jpg" class="speaker-img">
             <h3 id="speakerMiriam">Miriam Pereira</h3>
             <p>21 years old. Master's student. Front end developer.</p>
+            <p>TAGS: <div id="tagsMiriam">TEAMWORK, JAVASCRIPT, ANGULARJS, REACTJS, LARAVEL, HTML5, PHP, CSS3</div></p>
             <ul class="speaker-social">
               <li><a href="https://www.facebook.com/miriampereira95" target="_blank"><span class="ti-facebook"></span></a></li>
               <li><a href="https://www.linkedin.com/in/miriammpereira/" target="_blank"><span class="ti-linkedin"></span></a></li>
             </ul>
           </div>
 
-          <div class="col-md-4 col-sm-6 feature" style="cursor: pointer;" onclick="window.location='vitor.html';">
+          <div id='vitor' class="col-md-4 col-sm-6 feature" style="cursor: pointer;" onclick="window.location='vitor.html';">
             <img src="img/vitor.jpg" class="speaker-img">
             <h3 id="speakerVitor">Vítor Dias</h3>
             <p>22 years old. Master's student. Front end developer.</p>
+            <p>TAGS: <div id="tagsVitor">TEAMWORK, MICROSOFT OFFICE, LARAVEL, HTML5, PHP, CSS, ANGULARJS</div></p>
             <ul class="speaker-social">
               <li><a href="https://www.facebook.com/vitor.dias.3954" target="_blank"><span class="ti-facebook"></span></a></li>
               <li><a href="https://www.linkedin.com/in/vitor-dias-6aa9a310b/" target="_blank"><span class="ti-linkedin"></span></a></li>
@@ -91,5 +95,30 @@
       <!-- Include all compiled plugins (below), or include individual files as needed -->
       <script src="js/bootstrap.min.js"></script>
       <script src="js/jquery.easing.min.js"></script>
+      <script> 
+        jQuery(document).ready(function(){
+          jQuery('#search').on('click', function(event) {
+            var searchText = $('#searchText').val();
+            jQuery('#pedro').show();
+            jQuery('#miriam').show();
+            jQuery('#vitor').show();
+
+            if ($("#tagsPedro").text().indexOf(searchText) <= -1)
+            {
+                jQuery('#pedro').hide();
+            }
+
+            if ($("#tagsMiriam").text().indexOf(searchText) <= -1)
+            {
+                jQuery('#miriam').hide();
+            }
+
+            if ($("#tagsVitor").text().indexOf(searchText) <= -1)
+            {
+                jQuery('#vitor').hide();
+            }
+          });
+        });
+      </script>
     </body>
     </html>
