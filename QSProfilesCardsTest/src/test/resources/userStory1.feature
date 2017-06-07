@@ -7,7 +7,7 @@ Scenario Outline: There are no members to show
 Given that I'm in the main page
 And doesn't exists "<members>"
 When the page is loaded
-Then the application shows a default message "<msg>"
+Then the application shows a default message "<msg>" to member "<members>"
 
   Examples:
     |members        |msg                           |
@@ -29,7 +29,7 @@ Examples:
 
 Scenario Outline: A member don't have name
 Given that I'm in the main page
-And exists "<members>"
+And exists "<membersId>"
 When the page is loaded
 Then the application show "<default name>" to the "<membersId>"
 
@@ -79,7 +79,7 @@ Scenario Outline: An member don't have short bio
 Given that I'm in the main page
 And exists "<members>"
 When the page is loaded
-Then the application don't show "<members>" short bio "<shortBioMsg>"
+Then the application show "<members>" short bio "<shortBioMsg>"
 
 Examples:
 |members        | shortBioMsg                      |
@@ -103,7 +103,7 @@ Scenario Outline: An member don't have facebook link
 Given that I'm in the main page
 And exists "<members>"
 When the page is loaded
-Then the application show the member "<members>" link "<facebook link default>"
+Then the application show the member "<members>" default link "<facebook link default>"
 
   Examples:
     |members        | facebook link default     |
@@ -120,7 +120,7 @@ Then the application show linkedin icon with member "<members>" link "<linkedin 
 Examples:
 |members        | linkedin link           				            |
 |Miriam Pereira | https://www.linkedin.com/in/miriammpereira/		|
-|Vítor Dias	    | https://www.linkedin.com/in/vítor-dias-6aa9a310b/	|
+|Vítor Dias	    | https://www.linkedin.com/in/vitor-dias-6aa9a310b/	|
 |Pedro Jorge 	| https://www.linkedin.com/in/pedrombjorge/		    |
 
 Scenario Outline: An member don't have linkedin link
