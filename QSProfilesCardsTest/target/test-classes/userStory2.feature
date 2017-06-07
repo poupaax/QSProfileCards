@@ -30,7 +30,7 @@ Scenario Outline: An member don't have name
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show <default name>
+Then the application show "<members>" default name "<default name>"
 
 Examples:
 |members         | default name	|
@@ -54,7 +54,7 @@ Scenario Outline: An member don't have photo
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show a <default photo>
+Then the application show a "<members>" with default photo "<default photo>"
 
 Examples:
 |members        | default photo	|
@@ -102,10 +102,10 @@ Scenario Outline: An member don't have facebook link
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the disabled facebook icon
+Then the application show the "<members>" facebook default "<face link>"
 
 Examples:
-|members        | facebook link           	|
+|members        | face link           	|
 |Miriam Pereira | https://www.facebook.com/	|
 |Vítor Dias	    | https://www.facebook.com/	|
 |Pedro Jorge 	| https://www.facebook.com/	|
@@ -126,7 +126,7 @@ Scenario Outline: An member don't have linkedin link
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the disabled linkedin icon
+Then the application show the "<members>" linkedin default "<linkedin link>"
 
 Examples:
 |members        | linkedin link           	|
@@ -150,7 +150,7 @@ Scenario Outline: An member don't have projects
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application don't show the projects section
+Then the application show the "<members>" projects default "<msg projects>"
 
 Examples:
 |members        | msg projects       			    |
@@ -162,7 +162,7 @@ Scenario Outline: An member have tags
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application show the <member>'s <tags>
+Then the application show the "<members>" tags "<tags>"
 
 Examples:
 |members        | tags																									|
@@ -170,8 +170,14 @@ Examples:
 |Vítor Dias	    | #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS, #REACT, #REDUX, #MATERIAL	|
 |Pedro Jorge 	| #PHP, #LARAVEL, #IOS, #SWIFT, #CSS, #HTML, #ANGULAR, #BOOTSTRAP, #NODEJS								|
 
-Scenario: An member don't have tags
+Scenario Outline: An member don't have tags
 Given that I'm in the detailed page of "<members>"
 And exists "<members>" on detailed page
 When the detailed page is loaded
-Then the application don't show the tags section
+Then the application show the "<members>" tags default "<msg tags>"
+
+Examples:
+|members        | msg tags       			|
+|Miriam Pereira | The user don't have tags. |
+|Vítor Dias	    | The user don't have tags.	|
+|Pedro Jorge 	| The user don't have tags.	|
