@@ -98,7 +98,7 @@
       <script> 
         jQuery(document).ready(function(){
           jQuery('#search').on('click', function(event) {
-            var searchText = $('#searchText').val();
+            var searchText = $('#searchText').val().toUpperCase();
             jQuery('#pedro').show();
             jQuery('#miriam').show();
             jQuery('#vitor').show();
