@@ -29,15 +29,16 @@ public class Stepdefs {
         if(driver == null)
             driver = new HtmlUnitDriver();
     }
-    private String baseUrl = "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/index.html";
-    private String testNoUsersUrl = "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/indexWithOutMembers.html";
-    private String otherTestsUrl = "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/indexMembersWithOutInfo.html";
-    private String[] personalPages = {"file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/pedro.html",
-            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/miriam.html",
-            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/vitor.html"};
-    private String[] testNoInfo = {"file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/pedroWithOutInfo.html",
-            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/miriamWithOutInfo.html",
-            "file:///D:/DOCUMENTOS/QSoftware/QSProfileCards/Site/vitorWithOutInfo.html"};
+    private String url = "http://qsprofilecards-qsprofilecards.1d35.starter-us-east-1.openshiftapps.com/";
+    private String baseUrl = url;
+    private String testNoUsersUrl = url + "/indexWithOutMembers.html";
+    private String otherTestsUrl = url + "/indexMembersWithOutInfo.html";
+    private String[] personalPages = {url+"/pedro.html",
+            url+"/miriam.html",
+            url+"/vitor.html"};
+    private String[] testNoInfo = {url+"/pedroWithOutInfo.html",
+            url+"/miriamWithOutInfo.html",
+            url+"/vitorWithOutInfo.html"};
 
     @Before
     public void setUp() {
